@@ -1,0 +1,260 @@
+nome_municipio,categoria_evento,n_eventos,total_municipio,perc_no_municipio
+Florianópolis,Outros,112,245,45.714285714285715
+Florianópolis,Vendavais e Ciclones,52,245,21.224489795918366
+Florianópolis,Erosão,35,245,14.285714285714286
+Florianópolis,Enxurradas,18,245,7.346938775510204
+Florianópolis,Chuvas Intensas,13,245,5.3061224489795915
+Florianópolis,Movimento de Massa,8,245,3.2653061224489797
+Florianópolis,Alagamentos,3,245,1.2244897959183674
+Florianópolis,Granizo,2,245,0.8163265306122449
+Florianópolis,Inundações,1,245,0.40816326530612246
+Florianópolis,Tornado,1,245,0.40816326530612246
+Porto Belo,Outros,84,189,44.44444444444444
+Porto Belo,Vendavais e Ciclones,52,189,27.513227513227513
+Porto Belo,Movimento de Massa,16,189,8.465608465608465
+Porto Belo,Chuvas Intensas,14,189,7.407407407407407
+Porto Belo,Enxurradas,6,189,3.1746031746031744
+Porto Belo,Alagamentos,4,189,2.1164021164021163
+Porto Belo,Doenças infecciosas,4,189,2.1164021164021163
+Porto Belo,Estiagem e Seca,4,189,2.1164021164021163
+Porto Belo,Onda de Frio,3,189,1.5873015873015872
+Porto Belo,Incêndio Florestal,2,189,1.0582010582010581
+Balneário Camboriú,Outros,56,178,31.46067415730337
+Balneário Camboriú,Vendavais e Ciclones,52,178,29.213483146067414
+Balneário Camboriú,Chuvas Intensas,21,178,11.797752808988765
+Balneário Camboriú,Granizo,10,178,5.617977528089888
+Balneário Camboriú,Incêndio Florestal,8,178,4.49438202247191
+Balneário Camboriú,Movimento de Massa,8,178,4.49438202247191
+Balneário Camboriú,Enxurradas,7,178,3.932584269662921
+Balneário Camboriú,Onda de Frio,6,178,3.3707865168539324
+Balneário Camboriú,Erosão,5,178,2.808988764044944
+Balneário Camboriú,Inundações,3,178,1.6853932584269662
+Balneário Camboriú,Estiagem e Seca,2,178,1.1235955056179776
+Itapoá,Vendavais e Ciclones,80,161,49.68944099378882
+Itapoá,Outros,28,161,17.391304347826086
+Itapoá,Erosão,25,161,15.527950310559007
+Itapoá,Chuvas Intensas,17,161,10.559006211180124
+Itapoá,Enxurradas,6,161,3.7267080745341614
+Itapoá,Alagamentos,2,161,1.2422360248447204
+Itapoá,Granizo,2,161,1.2422360248447204
+Itapoá,Inundações,1,161,0.6211180124223602
+Balneário Barra do Sul,Vendavais e Ciclones,60,152,39.473684210526315
+Balneário Barra do Sul,Erosão,45,152,29.605263157894736
+Balneário Barra do Sul,Outros,28,152,18.42105263157895
+Balneário Barra do Sul,Enxurradas,8,152,5.2631578947368425
+Balneário Barra do Sul,Chuvas Intensas,7,152,4.605263157894737
+Balneário Barra do Sul,Alagamentos,2,152,1.3157894736842106
+Balneário Barra do Sul,Inundações,2,152,1.3157894736842106
+Joinville,Outros,56,143,39.16083916083916
+Joinville,Vendavais e Ciclones,28,143,19.58041958041958
+Joinville,Chuvas Intensas,18,143,12.587412587412587
+Joinville,Enxurradas,13,143,9.090909090909092
+Joinville,Inundações,8,143,5.594405594405594
+Joinville,Movimento de Massa,8,143,5.594405594405594
+Joinville,Erosão,5,143,3.4965034965034967
+Joinville,Alagamentos,4,143,2.797202797202797
+Joinville,Granizo,3,143,2.097902097902098
+Barra Velha,Vendavais e Ciclones,48,141,34.04255319148936
+Barra Velha,Outros,28,141,19.858156028368793
+Barra Velha,Erosão,25,141,17.73049645390071
+Barra Velha,Enxurradas,9,141,6.382978723404255
+Barra Velha,Movimento de Massa,8,141,5.673758865248227
+Barra Velha,Alagamentos,7,141,4.964539007092198
+Barra Velha,Chuvas Intensas,7,141,4.964539007092198
+Barra Velha,Incêndio Florestal,4,141,2.8368794326241136
+Barra Velha,Estiagem e Seca,2,141,1.4184397163120568
+Barra Velha,Inundações,2,141,1.4184397163120568
+Barra Velha,Granizo,1,141,0.7092198581560284
+São Francisco do Sul,Erosão,30,120,25
+São Francisco do Sul,Outros,28,120,23.333333333333332
+São Francisco do Sul,Vendavais e Ciclones,28,120,23.333333333333332
+São Francisco do Sul,Movimento de Massa,16,120,13.333333333333334
+São Francisco do Sul,Chuvas Intensas,9,120,7.5
+São Francisco do Sul,Enxurradas,4,120,3.3333333333333335
+São Francisco do Sul,Alagamentos,3,120,2.5
+São Francisco do Sul,Granizo,1,120,0.8333333333333334
+São Francisco do Sul,Inundações,1,120,0.8333333333333334
+Itajaí,Vendavais e Ciclones,44,112,39.285714285714285
+Itajaí,Outros,28,112,25
+Itajaí,Enxurradas,13,112,11.607142857142858
+Itajaí,Inundações,8,112,7.142857142857143
+Itajaí,Movimento de Massa,8,112,7.142857142857143
+Itajaí,Chuvas Intensas,7,112,6.25
+Itajaí,Estiagem e Seca,2,112,1.7857142857142858
+Itajaí,Alagamentos,1,112,0.8928571428571429
+Itajaí,Granizo,1,112,0.8928571428571429
+Balneário Piçarras,Vendavais e Ciclones,32,106,30.18867924528302
+Balneário Piçarras,Outros,28,106,26.41509433962264
+Balneário Piçarras,Erosão,15,106,14.150943396226415
+Balneário Piçarras,Alagamentos,8,106,7.547169811320755
+Balneário Piçarras,Movimento de Massa,8,106,7.547169811320755
+Balneário Piçarras,Enxurradas,6,106,5.660377358490566
+Balneário Piçarras,Chuvas Intensas,4,106,3.7735849056603774
+Balneário Piçarras,Onda de Frio,3,106,2.830188679245283
+Balneário Piçarras,Granizo,1,106,0.9433962264150944
+Balneário Piçarras,Inundações,1,106,0.9433962264150944
+Garuva,Vendavais e Ciclones,64,96,66.66666666666667
+Garuva,Enxurradas,13,96,13.541666666666666
+Garuva,Chuvas Intensas,12,96,12.5
+Garuva,Incêndio Florestal,4,96,4.166666666666667
+Garuva,Granizo,2,96,2.0833333333333335
+Garuva,Inundações,1,96,1.0416666666666667
+Araquari,Vendavais e Ciclones,36,94,38.297872340425535
+Araquari,Erosão,20,94,21.27659574468085
+Araquari,Chuvas Intensas,14,94,14.893617021276595
+Araquari,Enxurradas,9,94,9.574468085106384
+Araquari,Movimento de Massa,8,94,8.51063829787234
+Araquari,Alagamentos,6,94,6.382978723404255
+Araquari,Inundações,1,94,1.0638297872340425
+Biguaçu,Vendavais e Ciclones,36,86,41.86046511627907
+Biguaçu,Enxurradas,18,86,20.930232558139537
+Biguaçu,Movimento de Massa,8,86,9.30232558139535
+Biguaçu,Chuvas Intensas,6,86,6.976744186046512
+Biguaçu,Erosão,5,86,5.813953488372093
+Biguaçu,Granizo,5,86,5.813953488372093
+Biguaçu,Inundações,3,86,3.488372093023256
+Biguaçu,Estiagem e Seca,2,86,2.3255813953488373
+Biguaçu,Incêndio Florestal,2,86,2.3255813953488373
+Biguaçu,Alagamentos,1,86,1.1627906976744187
+Araranguá,Vendavais e Ciclones,44,79,55.69620253164557
+Araranguá,Enxurradas,19,79,24.050632911392405
+Araranguá,Chuvas Intensas,8,79,10.126582278481013
+Araranguá,Estiagem e Seca,4,79,5.063291139240507
+Araranguá,Incêndio Florestal,2,79,2.5316455696202533
+Araranguá,Inundações,2,79,2.5316455696202533
+Itapema,Outros,28,71,39.436619718309856
+Itapema,Vendavais e Ciclones,20,71,28.169014084507044
+Itapema,Movimento de Massa,8,71,11.267605633802816
+Itapema,Chuvas Intensas,6,71,8.450704225352112
+Itapema,Enxurradas,4,71,5.633802816901408
+Itapema,Alagamentos,2,71,2.816901408450704
+Itapema,Inundações,2,71,2.816901408450704
+Itapema,Granizo,1,71,1.408450704225352
+Garopaba,Erosão,30,69,43.47826086956522
+Garopaba,Movimento de Massa,16,69,23.18840579710145
+Garopaba,Vendavais e Ciclones,12,69,17.391304347826086
+Garopaba,Chuvas Intensas,4,69,5.797101449275362
+Garopaba,Alagamentos,2,69,2.898550724637681
+Garopaba,Enxurradas,2,69,2.898550724637681
+Garopaba,Inundações,2,69,2.898550724637681
+Garopaba,Tornado,1,69,1.4492753623188406
+Santa Rosa do Sul,Vendavais e Ciclones,36,65,55.38461538461539
+São João do Sul,Vendavais e Ciclones,28,65,43.07692307692308
+Santa Rosa do Sul,Enxurradas,11,65,16.923076923076923
+São João do Sul,Enxurradas,10,65,15.384615384615385
+São João do Sul,Chuvas Intensas,9,65,13.846153846153847
+São João do Sul,Movimento de Massa,8,65,12.307692307692308
+Santa Rosa do Sul,Chuvas Intensas,7,65,10.76923076923077
+Santa Rosa do Sul,Estiagem e Seca,6,65,9.23076923076923
+São João do Sul,Estiagem e Seca,4,65,6.153846153846154
+Santa Rosa do Sul,Inundações,3,65,4.615384615384615
+São João do Sul,Granizo,3,65,4.615384615384615
+São João do Sul,Alagamentos,2,65,3.076923076923077
+Santa Rosa do Sul,Alagamentos,1,65,1.5384615384615385
+Santa Rosa do Sul,Granizo,1,65,1.5384615384615385
+São João do Sul,Inundações,1,65,1.5384615384615385
+Navegantes,Vendavais e Ciclones,36,61,59.01639344262295
+Navegantes,Enxurradas,10,61,16.39344262295082
+Navegantes,Movimento de Massa,8,61,13.114754098360656
+Navegantes,Alagamentos,2,61,3.278688524590164
+Navegantes,Chuvas Intensas,2,61,3.278688524590164
+Navegantes,Inundações,2,61,3.278688524590164
+Navegantes,Granizo,1,61,1.639344262295082
+Penha,Vendavais e Ciclones,28,55,50.90909090909091
+Penha,Chuvas Intensas,8,55,14.545454545454545
+Penha,Movimento de Massa,8,55,14.545454545454545
+Penha,Enxurradas,5,55,9.090909090909092
+Penha,Alagamentos,3,55,5.454545454545454
+Penha,Inundações,3,55,5.454545454545454
+Governador Celso Ramos,Movimento de Massa,16,49,32.6530612244898
+Governador Celso Ramos,Vendavais e Ciclones,12,49,24.489795918367346
+Governador Celso Ramos,Enxurradas,8,49,16.3265306122449
+Governador Celso Ramos,Chuvas Intensas,5,49,10.204081632653061
+Governador Celso Ramos,Erosão,5,49,10.204081632653061
+Governador Celso Ramos,Granizo,2,49,4.081632653061225
+Governador Celso Ramos,Alagamentos,1,49,2.0408163265306123
+Sombrio,Vendavais e Ciclones,24,47,51.06382978723404
+Sombrio,Chuvas Intensas,9,47,19.148936170212767
+Sombrio,Estiagem e Seca,4,47,8.51063829787234
+Sombrio,Inundações,4,47,8.51063829787234
+Sombrio,Granizo,3,47,6.382978723404255
+Sombrio,Enxurradas,2,47,4.25531914893617
+Sombrio,Alagamentos,1,47,2.127659574468085
+Laguna,Movimento de Massa,16,46,34.78260869565217
+Laguna,Vendavais e Ciclones,16,46,34.78260869565217
+Laguna,Enxurradas,4,46,8.695652173913043
+Laguna,Chuvas Intensas,3,46,6.521739130434782
+Laguna,Alagamentos,2,46,4.3478260869565215
+Laguna,Estiagem e Seca,2,46,4.3478260869565215
+Laguna,Tornado,2,46,4.3478260869565215
+Laguna,Inundações,1,46,2.1739130434782608
+Palhoça,Vendavais e Ciclones,16,43,37.2093023255814
+Palhoça,Enxurradas,10,43,23.25581395348837
+Palhoça,Chuvas Intensas,7,43,16.27906976744186
+Palhoça,Estiagem e Seca,4,43,9.30232558139535
+Palhoça,Granizo,3,43,6.976744186046512
+Palhoça,Inundações,3,43,6.976744186046512
+Tijucas,Vendavais e Ciclones,20,42,47.61904761904762
+Tijucas,Chuvas Intensas,6,42,14.285714285714286
+Tijucas,Enxurradas,5,42,11.904761904761905
+Tijucas,Erosão,5,42,11.904761904761905
+Tijucas,Estiagem e Seca,2,42,4.761904761904762
+Tijucas,Inundações,2,42,4.761904761904762
+Tijucas,Alagamentos,1,42,2.380952380952381
+Tijucas,Granizo,1,42,2.380952380952381
+Jaguaruna,Vendavais e Ciclones,16,40,40
+Jaguaruna,Enxurradas,8,40,20
+Jaguaruna,Movimento de Massa,8,40,20
+Jaguaruna,Chuvas Intensas,5,40,12.5
+Jaguaruna,Alagamentos,1,40,2.5
+Jaguaruna,Inundações,1,40,2.5
+Jaguaruna,Rompimento/Colapso de barragens,1,40,2.5
+Imbituba,Vendavais e Ciclones,16,39,41.02564102564103
+Imbituba,Movimento de Massa,8,39,20.512820512820515
+Imbituba,Enxurradas,5,39,12.820512820512821
+Imbituba,Chuvas Intensas,4,39,10.256410256410257
+Imbituba,Alagamentos,2,39,5.128205128205129
+Imbituba,Granizo,2,39,5.128205128205129
+Imbituba,Incêndio Florestal,2,39,5.128205128205129
+Imaruí,Vendavais e Ciclones,12,38,31.57894736842105
+Imaruí,Chuvas Intensas,7,38,18.42105263157895
+Imaruí,Enxurradas,5,38,13.157894736842104
+Imaruí,Erosão,5,38,13.157894736842104
+Imaruí,Estiagem e Seca,4,38,10.526315789473685
+Imaruí,Onda de Frio,3,38,7.894736842105263
+Imaruí,Granizo,1,38,2.6315789473684212
+Imaruí,Inundações,1,38,2.6315789473684212
+Bombinhas,Vendavais e Ciclones,16,36,44.44444444444444
+Bombinhas,Erosão,10,36,27.77777777777778
+Bombinhas,Enxurradas,6,36,16.666666666666668
+Bombinhas,Alagamentos,2,36,5.555555555555555
+Bombinhas,Chuvas Intensas,2,36,5.555555555555555
+São José,Vendavais e Ciclones,16,33,48.484848484848484
+São José,Enxurradas,13,33,39.39393939393939
+São José,Chuvas Intensas,2,33,6.0606060606060606
+São José,Inundações,2,33,6.0606060606060606
+Balneário Arroio do Silva,Vendavais e Ciclones,24,32,75
+Balneário Arroio do Silva,Enxurradas,5,32,15.625
+Balneário Arroio do Silva,Chuvas Intensas,1,32,3.125
+Balneário Arroio do Silva,Granizo,1,32,3.125
+Balneário Arroio do Silva,Inundações,1,32,3.125
+Pescaria Brava,Vendavais e Ciclones,20,28,71.42857142857143
+Passo de Torres,Vendavais e Ciclones,16,28,57.142857142857146
+Passo de Torres,Chuvas Intensas,3,28,10.714285714285714
+Passo de Torres,Enxurradas,3,28,10.714285714285714
+Passo de Torres,Inundações,3,28,10.714285714285714
+Pescaria Brava,Chuvas Intensas,3,28,10.714285714285714
+Pescaria Brava,Enxurradas,3,28,10.714285714285714
+Passo de Torres,Estiagem e Seca,2,28,7.142857142857143
+Passo de Torres,Alagamentos,1,28,3.5714285714285716
+Pescaria Brava,Alagamentos,1,28,3.5714285714285716
+Pescaria Brava,Onda de Calor e Baixa Umidade,1,28,3.5714285714285716
+Balneário Gaivota,Enxurradas,7,26,26.923076923076923
+Balneário Gaivota,Estiagem e Seca,6,26,23.076923076923077
+Balneário Gaivota,Chuvas Intensas,4,26,15.384615384615385
+Balneário Gaivota,Vendavais e Ciclones,4,26,15.384615384615385
+Balneário Gaivota,Inundações,3,26,11.538461538461538
+Balneário Gaivota,Granizo,2,26,7.6923076923076925
+Balneário Rincão,Vendavais e Ciclones,12,18,66.66666666666667
+Balneário Rincão,Alagamentos,5,18,27.77777777777778
+Balneário Rincão,Enxurradas,1,18,5.555555555555555

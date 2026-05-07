@@ -1,0 +1,108 @@
+nome_municipio,tipo_plot,n_eventos,total_municipio
+Balneário Rincão,Hidrológico,6,9
+Balneário Rincão,Meteorológico,3,9
+Pescaria Brava,Hidrológico,6,12
+Pescaria Brava,Meteorológico,5,12
+Pescaria Brava,Outros,1,12
+Balneário Arroio do Silva,Hidrológico,7,14
+Balneário Arroio do Silva,Meteorológico,7,14
+Passo de Torres,Climatológico,1,15
+Passo de Torres,Hidrológico,10,15
+Passo de Torres,Meteorológico,4,15
+Bombinhas,Hidrológico,10,16
+Bombinhas,Meteorológico,4,16
+Bombinhas,Outros,2,16
+Imbituba,Climatológico,1,19
+Imbituba,Hidrológico,12,19
+Imbituba,Meteorológico,6,19
+Laguna,Climatológico,1,19
+Laguna,Hidrológico,12,19
+Laguna,Meteorológico,6,19
+Balneário Gaivota,Climatológico,3,20
+Balneário Gaivota,Hidrológico,14,20
+Balneário Gaivota,Meteorológico,3,20
+Imaruí,Climatológico,2,21
+Imaruí,Hidrológico,13,21
+Imaruí,Meteorológico,5,21
+Imaruí,Outros,1,21
+Jaguaruna,Hidrológico,16,21
+Jaguaruna,Meteorológico,4,21
+Jaguaruna,Outros,1,21
+São José,Hidrológico,17,21
+São José,Meteorológico,4,21
+Garopaba,Hidrológico,12,22
+Garopaba,Meteorológico,4,22
+Garopaba,Outros,6,22
+Governador Celso Ramos,Hidrológico,16,22
+Governador Celso Ramos,Meteorológico,5,22
+Governador Celso Ramos,Outros,1,22
+Itapema,Hidrológico,15,22
+Itapema,Meteorológico,6,22
+Itapema,Outros,1,22
+Tijucas,Climatológico,1,22
+Tijucas,Hidrológico,14,22
+Tijucas,Meteorológico,6,22
+Tijucas,Outros,1,22
+Navegantes,Hidrológico,17,27
+Navegantes,Meteorológico,10,27
+Penha,Hidrológico,20,27
+Penha,Meteorológico,7,27
+Sombrio,Climatológico,2,27
+Sombrio,Hidrológico,16,27
+Sombrio,Meteorológico,9,27
+Palhoça,Climatológico,2,29
+Palhoça,Hidrológico,20,29
+Palhoça,Meteorológico,7,29
+Balneário Piçarras,Hidrológico,20,34
+Balneário Piçarras,Meteorológico,10,34
+Balneário Piçarras,Outros,4,34
+São Francisco do Sul,Hidrológico,19,34
+São Francisco do Sul,Meteorológico,8,34
+São Francisco do Sul,Outros,7,34
+Santa Rosa do Sul,Climatológico,3,35
+Santa Rosa do Sul,Hidrológico,22,35
+Santa Rosa do Sul,Meteorológico,10,35
+São João do Sul,Climatológico,2,35
+São João do Sul,Hidrológico,23,35
+São João do Sul,Meteorológico,10,35
+Araranguá,Climatológico,3,43
+Araranguá,Hidrológico,29,43
+Araranguá,Meteorológico,11,43
+Araquari,Hidrológico,31,44
+Araquari,Meteorológico,9,44
+Araquari,Outros,4,44
+Balneário Barra do Sul,Hidrológico,19,44
+Balneário Barra do Sul,Meteorológico,15,44
+Balneário Barra do Sul,Outros,10,44
+Itajaí,Climatológico,1,44
+Itajaí,Hidrológico,30,44
+Itajaí,Meteorológico,12,44
+Itajaí,Outros,1,44
+Biguaçu,Climatológico,2,46
+Biguaçu,Hidrológico,29,46
+Biguaçu,Meteorológico,14,46
+Biguaçu,Outros,1,46
+Garuva,Climatológico,2,46
+Garuva,Hidrológico,26,46
+Garuva,Meteorológico,18,46
+Porto Belo,Climatológico,4,47
+Porto Belo,Hidrológico,26,47
+Porto Belo,Meteorológico,13,47
+Porto Belo,Outros,4,47
+Barra Velha,Climatológico,3,48
+Barra Velha,Hidrológico,26,48
+Barra Velha,Meteorológico,13,48
+Barra Velha,Outros,6,48
+Itapoá,Hidrológico,26,54
+Itapoá,Meteorológico,22,54
+Itapoá,Outros,6,54
+Joinville,Hidrológico,44,57
+Joinville,Meteorológico,10,57
+Joinville,Outros,3,57
+Florianópolis,Hidrológico,36,63
+Florianópolis,Meteorológico,16,63
+Florianópolis,Outros,11,63
+Balneário Camboriú,Climatológico,6,65
+Balneário Camboriú,Hidrológico,32,65
+Balneário Camboriú,Meteorológico,24,65
+Balneário Camboriú,Outros,3,65

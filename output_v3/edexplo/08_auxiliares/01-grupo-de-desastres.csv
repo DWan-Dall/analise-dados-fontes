@@ -1,0 +1,66 @@
+atlas_n_tipologia,atlas_descricao_tipologia,grupo_de_desastres,cobrade,desastre
+9,Chuvas Intensas,Climatológico,13310,Onda de Calor
+10,Onda de Frio,Climatológico,13321,Onda de Frio - Friagem
+10,Onda de Frio,Climatológico,13322,Onda de Frio - Geadas
+4,Estiagem e Seca,Climatológico,14110,Estiagem
+4,Estiagem e Seca,Climatológico,14120,Seca
+6,Incêndio Florestal,Climatológico,14131,"Incêndio Florestal - Incêndios em Parques, Áreas de Proteção Ambiental e Áreas de Preservação Permanente Nacionais, Estaduais ou Municipais"
+6,Incêndio Florestal,Climatológico,14132,"Incêndio Florestal - Incêndios em áreas não protegidas, com reflexos na qualidade do ar"
+8,Movimento de Massa,Hidrológico,11311,"Quedas, Tombamentos e rolamentos - Blocos"
+8,Movimento de Massa,Hidrológico,11312,"Quedas, Tombamentos e rolamentos - Lascas"
+8,Movimento de Massa,Hidrológico,11313,"Quedas, Tombamentos e rolamentos - Matacões"
+8,Movimento de Massa,Hidrológico,11314,"Quedas, Tombamentos e rolamentos - Lajes"
+8,Movimento de Massa,Hidrológico,11321,Deslizamentos
+8,Movimento de Massa,Hidrológico,11331,Corridas de Massa - Rocha/detrito
+8,Movimento de Massa,Hidrológico,11332,Corridas de Massa - Rocha/detrito
+8,Movimento de Massa,Hidrológico,11340,Subsidências e colapsos
+7,Inundações,Hidrológico,12100,Inundações
+2,Enxurradas,Hidrológico,12200,Enxurradas
+1,Alagamentos,Hidrológico,12300,Alagamentos
+13,Chuvas Intensas,Hidrológico,13214,Tempestade Local/Convectiva - Chuvas Intensas
+12,Vendavais e Ciclones,Meteorológico,13111,Ciclones - Ventos Costeiros (Mobilidade de Dunas)
+12,Vendavais e Ciclones,Meteorológico,13112,Ciclones - Marés de Tempestade (Ressacas)
+10,Onda de Frio,Meteorológico,13120,Frentes Frias/Zonas de Convergência
+11,Tornado,Meteorológico,13211,Tempestade Local/Convectiva - Tornados
+12,Vendavais e Ciclones,Meteorológico,13212,Tempestade Local/Convectiva - Tempestade de Raios
+5,Granizo,Meteorológico,13213,Tempestade Local/Convectiva - Granizo
+12,Vendavais e Ciclones,Meteorológico,13215,Tempestade Local/Convectiva - Vendaval
+3,Erosão,Outros,11433,Erosão Continental - Boçorocas
+3,Erosão,Outros,11431,Erosão Continental - Laminar
+3,Erosão,Outros,11432,Erosão Continental - Ravinas
+3,Erosão,Outros,11420,Erosão de Margem Fluvial
+3,Erosão,Outros,11410,Erosão Costeira/Marinha
+9,Onda de Calor e Baixa Umidade,Outros,14140,Baixa Umidade do Ar
+14,Outros,Outros,11110,Tremor de terra
+14,Outros,Outros,11120,Tsunami
+14,Outros,Outros,11200,Emanação vulcânica
+14,Outros,Outros,15210,Infestações de animais
+14,Outros,Outros,15221,Infestações de algas - Marés vermelhas
+14,Outros,Outros,15222,Infestações de algas - Ciano bactérias em reservatórios
+14,Outros,Outros,15230,Outras Infestações
+14,Outros,Outros,21110,Queda de satélite (radionuclídeos)
+14,Outros,Outros,21210,Fontes radioativas em processos de produção
+14,Outros,Outros,21310,Outras fontes de liberação de radionuclídeos para o meio ambiente
+14,Outros,Outros,22110,Liberação de produtos químicos para a atmosfera causada por explosão ou incêndio
+14,Outros,Outros,22210,Liberação de produtos químicos nos sistemas de água potável
+14,Outros,Outros,22220,"Derramamento de produtos químicos em ambiente lacustre, fluvial e marinho"
+14,Outros,Outros,22310,Liberação produtos químicos e contaminação como conseqüência de ações militares.
+14,Outros,Outros,22410,Transporte de produtos perigosos rodoviário
+14,Outros,Outros,22420,Transporte de produtos perogosos ferroviário
+14,Outros,Outros,22430,Transporte de produtos perigosos aéreo
+14,Outros,Outros,22440,Transporte de produtos perigosos dutoviário
+14,Outros,Outros,22450,Transporte de produtos perigosos marítimo
+14,Outros,Outros,22460,Transporte de produtos perigosos aquaviário
+14,Outros,Outros,23110,"Incêndios em plantas e distritos industriais, parques e depósitos"
+14,Outros,Outros,23120,Incêndios em aglomerados residenciais
+14,Outros,Outros,24100,Colapso de edificações
+14,Outros,Outros,25100,Transporte passageiros e cargas não perigosas rodoviário
+14,Outros,Outros,25200,Transporte passageiros e cargas não perigosas ferroviário
+14,Outros,Outros,25300,Transporte passageiros e cargas não perigosas aéreo
+14,Outros,Outros,25400,Transporte de passageiros e cargas não perigosas marítimo
+14,Outros,Outros,25500,Transporte passageiros e cargas não perigosas aquaviário
+15,Rompimento/Colapso de barragens,Outros,24200,Rompimento/Colapso de barragens
+16,Doenças infecciosas,Outros,15110,Doenças infecciosas virais
+16,Doenças infecciosas,Outros,15120,Doenças infecciosas bacterianas
+16,Doenças infecciosas,Outros,15130,Doenças infecciosas parasíticas
+16,Doenças infecciosas,Outros,15140,Doenças infecciosas fúngicas

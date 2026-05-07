@@ -1,0 +1,13 @@
+variavel,medida,valor
+dh_total_danos_humanos_diretos,total,516064
+dh_total_danos_humanos_diretos,media,459.1316725978648
+dh_total_danos_humanos_diretos,max,70000
+dm_total_danos_materiais,total,5165953805.127067
+dm_total_danos_materiais,media,4596044.310611269
+dm_total_danos_materiais,max,1092450357.33792
+pepl_total_publico,total,549937765.449747
+pepl_total_publico,media,489268.47459941905
+pepl_total_publico,max,40241902.9343872
+pepr_total_privado,total,3211397986.1693225
+pepr_total_privado,media,2857115.646058116
+pepr_total_privado,max,1208797835.7260401
