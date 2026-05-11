@@ -1,0 +1,145 @@
+nome_municipio,categoria_evento,n_eventos,total_municipio,perc_no_municipio
+Araquari,Alagamentos,6,31,19.35483870967742
+Araquari,Chuvas Intensas,14,31,45.16129032258065
+Araquari,Enxurradas,9,31,29.032258064516128
+Araquari,Inundações,1,31,3.225806451612903
+Araquari,Movimento de Massa,1,31,3.225806451612903
+Araranguá,Chuvas Intensas,8,29,27.586206896551722
+Araranguá,Enxurradas,19,29,65.51724137931035
+Araranguá,Inundações,2,29,6.896551724137931
+Balneário Arroio do Silva,Chuvas Intensas,1,7,14.285714285714286
+Balneário Arroio do Silva,Enxurradas,5,7,71.42857142857143
+Balneário Arroio do Silva,Inundações,1,7,14.285714285714286
+Balneário Barra do Sul,Alagamentos,2,19,10.526315789473685
+Balneário Barra do Sul,Chuvas Intensas,7,19,36.8421052631579
+Balneário Barra do Sul,Enxurradas,8,19,42.10526315789474
+Balneário Barra do Sul,Inundações,2,19,10.526315789473685
+Balneário Camboriú,Chuvas Intensas,21,32,65.625
+Balneário Camboriú,Enxurradas,7,32,21.875
+Balneário Camboriú,Inundações,3,32,9.375
+Balneário Camboriú,Movimento de Massa,1,32,3.125
+Balneário Gaivota,Chuvas Intensas,4,14,28.571428571428573
+Balneário Gaivota,Enxurradas,7,14,50
+Balneário Gaivota,Inundações,3,14,21.428571428571427
+Balneário Piçarras,Alagamentos,8,20,40
+Balneário Piçarras,Chuvas Intensas,4,20,20
+Balneário Piçarras,Enxurradas,6,20,30
+Balneário Piçarras,Inundações,1,20,5
+Balneário Piçarras,Movimento de Massa,1,20,5
+Balneário Rincão,Alagamentos,5,6,83.33333333333333
+Balneário Rincão,Enxurradas,1,6,16.666666666666668
+Barra Velha,Alagamentos,7,26,26.923076923076923
+Barra Velha,Chuvas Intensas,7,26,26.923076923076923
+Barra Velha,Enxurradas,9,26,34.61538461538461
+Barra Velha,Inundações,2,26,7.6923076923076925
+Barra Velha,Movimento de Massa,1,26,3.8461538461538463
+Biguaçu,Alagamentos,1,29,3.4482758620689653
+Biguaçu,Chuvas Intensas,6,29,20.689655172413794
+Biguaçu,Enxurradas,18,29,62.06896551724138
+Biguaçu,Inundações,3,29,10.344827586206897
+Biguaçu,Movimento de Massa,1,29,3.4482758620689653
+Bombinhas,Alagamentos,2,10,20
+Bombinhas,Chuvas Intensas,2,10,20
+Bombinhas,Enxurradas,6,10,60
+Florianópolis,Alagamentos,3,36,8.333333333333334
+Florianópolis,Chuvas Intensas,13,36,36.111111111111114
+Florianópolis,Enxurradas,18,36,50
+Florianópolis,Inundações,1,36,2.7777777777777777
+Florianópolis,Movimento de Massa,1,36,2.7777777777777777
+Garopaba,Alagamentos,2,12,16.666666666666668
+Garopaba,Chuvas Intensas,4,12,33.333333333333336
+Garopaba,Enxurradas,2,12,16.666666666666668
+Garopaba,Inundações,2,12,16.666666666666668
+Garopaba,Movimento de Massa,2,12,16.666666666666668
+Garuva,Chuvas Intensas,12,26,46.15384615384615
+Garuva,Enxurradas,13,26,50
+Garuva,Inundações,1,26,3.8461538461538463
+Governador Celso Ramos,Alagamentos,1,16,6.25
+Governador Celso Ramos,Chuvas Intensas,5,16,31.25
+Governador Celso Ramos,Enxurradas,8,16,50
+Governador Celso Ramos,Movimento de Massa,2,16,12.5
+Imaruí,Chuvas Intensas,7,13,53.84615384615385
+Imaruí,Enxurradas,5,13,38.46153846153846
+Imaruí,Inundações,1,13,7.6923076923076925
+Imbituba,Alagamentos,2,12,16.666666666666668
+Imbituba,Chuvas Intensas,4,12,33.333333333333336
+Imbituba,Enxurradas,5,12,41.666666666666664
+Imbituba,Movimento de Massa,1,12,8.333333333333334
+Itajaí,Alagamentos,1,30,3.3333333333333335
+Itajaí,Chuvas Intensas,7,30,23.333333333333332
+Itajaí,Enxurradas,13,30,43.333333333333336
+Itajaí,Inundações,8,30,26.666666666666668
+Itajaí,Movimento de Massa,1,30,3.3333333333333335
+Itapema,Alagamentos,2,15,13.333333333333334
+Itapema,Chuvas Intensas,6,15,40
+Itapema,Enxurradas,4,15,26.666666666666668
+Itapema,Inundações,2,15,13.333333333333334
+Itapema,Movimento de Massa,1,15,6.666666666666667
+Itapoá,Alagamentos,2,26,7.6923076923076925
+Itapoá,Chuvas Intensas,17,26,65.38461538461539
+Itapoá,Enxurradas,6,26,23.076923076923077
+Itapoá,Inundações,1,26,3.8461538461538463
+Jaguaruna,Alagamentos,1,16,6.25
+Jaguaruna,Chuvas Intensas,5,16,31.25
+Jaguaruna,Enxurradas,8,16,50
+Jaguaruna,Inundações,1,16,6.25
+Jaguaruna,Movimento de Massa,1,16,6.25
+Joinville,Alagamentos,4,44,9.090909090909092
+Joinville,Chuvas Intensas,18,44,40.90909090909091
+Joinville,Enxurradas,13,44,29.545454545454547
+Joinville,Inundações,8,44,18.181818181818183
+Joinville,Movimento de Massa,1,44,2.272727272727273
+Laguna,Alagamentos,2,12,16.666666666666668
+Laguna,Chuvas Intensas,3,12,25
+Laguna,Enxurradas,4,12,33.333333333333336
+Laguna,Inundações,1,12,8.333333333333334
+Laguna,Movimento de Massa,2,12,16.666666666666668
+Navegantes,Alagamentos,2,17,11.764705882352942
+Navegantes,Chuvas Intensas,2,17,11.764705882352942
+Navegantes,Enxurradas,10,17,58.8235294117647
+Navegantes,Inundações,2,17,11.764705882352942
+Navegantes,Movimento de Massa,1,17,5.882352941176471
+Palhoça,Chuvas Intensas,7,20,35
+Palhoça,Enxurradas,10,20,50
+Palhoça,Inundações,3,20,15
+Passo de Torres,Alagamentos,1,10,10
+Passo de Torres,Chuvas Intensas,3,10,30
+Passo de Torres,Enxurradas,3,10,30
+Passo de Torres,Inundações,3,10,30
+Penha,Alagamentos,3,20,15
+Penha,Chuvas Intensas,8,20,40
+Penha,Enxurradas,5,20,25
+Penha,Inundações,3,20,15
+Penha,Movimento de Massa,1,20,5
+Pescaria Brava,Alagamentos,1,6,16.666666666666668
+Pescaria Brava,Chuvas Intensas,2,6,33.333333333333336
+Pescaria Brava,Enxurradas,3,6,50
+Porto Belo,Alagamentos,4,26,15.384615384615385
+Porto Belo,Chuvas Intensas,14,26,53.84615384615385
+Porto Belo,Enxurradas,6,26,23.076923076923077
+Porto Belo,Movimento de Massa,2,26,7.6923076923076925
+Santa Rosa do Sul,Alagamentos,1,22,4.545454545454546
+Santa Rosa do Sul,Chuvas Intensas,7,22,31.818181818181817
+Santa Rosa do Sul,Enxurradas,11,22,50
+Santa Rosa do Sul,Inundações,3,22,13.636363636363637
+Sombrio,Alagamentos,1,16,6.25
+Sombrio,Chuvas Intensas,9,16,56.25
+Sombrio,Enxurradas,2,16,12.5
+Sombrio,Inundações,4,16,25
+São Francisco do Sul,Alagamentos,3,19,15.789473684210526
+São Francisco do Sul,Chuvas Intensas,9,19,47.36842105263158
+São Francisco do Sul,Enxurradas,4,19,21.05263157894737
+São Francisco do Sul,Inundações,1,19,5.2631578947368425
+São Francisco do Sul,Movimento de Massa,2,19,10.526315789473685
+São José,Chuvas Intensas,2,17,11.764705882352942
+São José,Enxurradas,13,17,76.47058823529412
+São José,Inundações,2,17,11.764705882352942
+São João do Sul,Alagamentos,2,23,8.695652173913043
+São João do Sul,Chuvas Intensas,9,23,39.130434782608695
+São João do Sul,Enxurradas,10,23,43.47826086956522
+São João do Sul,Inundações,1,23,4.3478260869565215
+São João do Sul,Movimento de Massa,1,23,4.3478260869565215
+Tijucas,Alagamentos,1,14,7.142857142857143
+Tijucas,Chuvas Intensas,6,14,42.857142857142854
+Tijucas,Enxurradas,5,14,35.714285714285715
+Tijucas,Inundações,2,14,14.285714285714286

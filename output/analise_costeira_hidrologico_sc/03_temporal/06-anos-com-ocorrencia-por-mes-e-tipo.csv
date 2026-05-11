@@ -1,0 +1,56 @@
+mes_nome,categoria_evento,n_anos_com_evento
+Jan,Alagamentos,9
+Jan,Chuvas Intensas,10
+Jan,Enxurradas,16
+Jan,Inundações,6
+Jan,Movimento de Massa,5
+Fev,Alagamentos,5
+Fev,Chuvas Intensas,7
+Fev,Enxurradas,20
+Fev,Inundações,2
+Mar,Alagamentos,8
+Mar,Chuvas Intensas,8
+Mar,Enxurradas,12
+Mar,Inundações,4
+Abr,Alagamentos,3
+Abr,Chuvas Intensas,2
+Abr,Enxurradas,6
+Abr,Inundações,1
+Abr,Movimento de Massa,2
+Mai,Alagamentos,6
+Mai,Chuvas Intensas,4
+Mai,Enxurradas,10
+Mai,Inundações,2
+Mai,Movimento de Massa,2
+Jun,Alagamentos,3
+Jun,Chuvas Intensas,5
+Jun,Enxurradas,4
+Jun,Inundações,1
+Jun,Movimento de Massa,3
+Jul,Alagamentos,3
+Jul,Chuvas Intensas,2
+Jul,Enxurradas,6
+Ago,Chuvas Intensas,2
+Ago,Enxurradas,4
+Ago,Inundações,2
+Ago,Movimento de Massa,2
+Set,Alagamentos,3
+Set,Chuvas Intensas,2
+Set,Enxurradas,8
+Set,Inundações,3
+Set,Movimento de Massa,2
+Out,Alagamentos,7
+Out,Chuvas Intensas,5
+Out,Enxurradas,4
+Out,Inundações,5
+Out,Movimento de Massa,3
+Nov,Alagamentos,1
+Nov,Chuvas Intensas,6
+Nov,Enxurradas,6
+Nov,Inundações,6
+Nov,Movimento de Massa,1
+Dez,Alagamentos,4
+Dez,Chuvas Intensas,5
+Dez,Enxurradas,8
+Dez,Inundações,5
+Dez,Movimento de Massa,1

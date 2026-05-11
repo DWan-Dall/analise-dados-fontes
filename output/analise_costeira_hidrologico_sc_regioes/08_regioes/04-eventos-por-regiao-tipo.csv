@@ -1,0 +1,26 @@
+regiao_costeira,categoria_evento,n_eventos
+Região Norte,Alagamentos,24
+Região Norte,Chuvas Intensas,84
+Região Norte,Enxurradas,62
+Região Norte,Inundações,16
+Região Norte,Movimento de Massa,5
+Região Centro-Norte,Alagamentos,22
+Região Centro-Norte,Chuvas Intensas,64
+Região Centro-Norte,Enxurradas,57
+Região Centro-Norte,Inundações,19
+Região Centro-Norte,Movimento de Massa,8
+Região Central,Alagamentos,6
+Região Central,Chuvas Intensas,39
+Região Central,Enxurradas,72
+Região Central,Inundações,11
+Região Central,Movimento de Massa,4
+Região Centro-Sul,Alagamentos,8
+Região Centro-Sul,Chuvas Intensas,25
+Região Centro-Sul,Enxurradas,27
+Região Centro-Sul,Inundações,5
+Região Centro-Sul,Movimento de Massa,6
+Região Sul,Alagamentos,10
+Região Sul,Chuvas Intensas,41
+Região Sul,Enxurradas,58
+Região Sul,Inundações,17
+Região Sul,Movimento de Massa,1
