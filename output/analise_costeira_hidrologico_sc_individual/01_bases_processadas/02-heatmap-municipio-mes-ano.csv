@@ -1,0 +1,643 @@
+nome_municipio,mes_nome,ano,n_eventos
+Araquari,Jan,2003,1
+Araquari,Jan,2010,1
+Araquari,Jan,2011,1
+Araquari,Jan,2024,2
+Araquari,Fev,1995,1
+Araquari,Fev,2001,1
+Araquari,Fev,2019,1
+Araquari,Fev,2024,1
+Araquari,Mar,1994,1
+Araquari,Mar,2011,1
+Araquari,Mar,2013,1
+Araquari,Mar,2022,1
+Araquari,Mar,2023,1
+Araquari,Mai,2010,1
+Araquari,Mai,2017,1
+Araquari,Jun,2014,1
+Araquari,Set,2011,1
+Araquari,Set,2017,2
+Araquari,Out,2006,1
+Araquari,Out,2013,1
+Araquari,Out,2017,1
+Araquari,Out,2023,1
+Araquari,Nov,2008,1
+Araquari,Nov,2022,3
+Araquari,Nov,2023,1
+Araquari,Dez,2022,1
+Araquari,Dez,2024,1
+Araranguá,Jan,2009,1
+Araranguá,Jan,2011,1
+Araranguá,Jan,2022,1
+Araranguá,Fev,2000,1
+Araranguá,Fev,2014,2
+Araranguá,Mar,2010,1
+Araranguá,Abr,2015,1
+Araranguá,Mai,1994,1
+Araranguá,Mai,2004,1
+Araranguá,Mai,2010,1
+Araranguá,Mai,2015,1
+Araranguá,Mai,2022,1
+Araranguá,Mai,2024,2
+Araranguá,Ago,2005,1
+Araranguá,Ago,2013,1
+Araranguá,Ago,2022,2
+Araranguá,Set,1996,1
+Araranguá,Set,2001,1
+Araranguá,Set,2009,1
+Araranguá,Out,2023,1
+Araranguá,Nov,1993,1
+Araranguá,Nov,2008,1
+Araranguá,Nov,2021,1
+Araranguá,Nov,2022,1
+Araranguá,Dez,1995,1
+Araranguá,Dez,2021,1
+Balneário Arroio do Silva,Jan,2011,1
+Balneário Arroio do Silva,Mai,2010,1
+Balneário Arroio do Silva,Mai,2022,1
+Balneário Arroio do Silva,Ago,2011,1
+Balneário Arroio do Silva,Set,2001,1
+Balneário Arroio do Silva,Set,2009,1
+Balneário Arroio do Silva,Set,2010,1
+Balneário Barra do Sul,Jan,2011,1
+Balneário Barra do Sul,Jan,2024,3
+Balneário Barra do Sul,Fev,2009,1
+Balneário Barra do Sul,Fev,2019,1
+Balneário Barra do Sul,Fev,2020,1
+Balneário Barra do Sul,Fev,2024,1
+Balneário Barra do Sul,Mar,1994,1
+Balneário Barra do Sul,Mar,2021,1
+Balneário Barra do Sul,Mar,2022,1
+Balneário Barra do Sul,Mar,2023,1
+Balneário Barra do Sul,Abr,2010,1
+Balneário Barra do Sul,Mai,2017,1
+Balneário Barra do Sul,Jun,2014,1
+Balneário Barra do Sul,Jul,2009,1
+Balneário Barra do Sul,Set,2011,1
+Balneário Barra do Sul,Nov,2008,1
+Balneário Barra do Sul,Dez,2015,1
+Balneário Camboriú,Jan,2008,1
+Balneário Camboriú,Jan,2018,1
+Balneário Camboriú,Jan,2022,1
+Balneário Camboriú,Jan,2023,2
+Balneário Camboriú,Jan,2024,2
+Balneário Camboriú,Fev,2015,1
+Balneário Camboriú,Mar,2004,1
+Balneário Camboriú,Mar,2020,3
+Balneário Camboriú,Abr,2019,1
+Balneário Camboriú,Abr,2024,1
+Balneário Camboriú,Mai,1994,1
+Balneário Camboriú,Mai,2021,3
+Balneário Camboriú,Mai,2022,1
+Balneário Camboriú,Jun,2021,1
+Balneário Camboriú,Ago,2020,1
+Balneário Camboriú,Ago,2021,1
+Balneário Camboriú,Set,2011,1
+Balneário Camboriú,Set,2023,2
+Balneário Camboriú,Out,1991,1
+Balneário Camboriú,Out,2023,3
+Balneário Camboriú,Nov,2008,1
+Balneário Camboriú,Dez,2007,1
+Balneário Camboriú,Dez,2022,1
+Balneário Gaivota,Fev,2003,1
+Balneário Gaivota,Mai,2004,1
+Balneário Gaivota,Mai,2010,1
+Balneário Gaivota,Mai,2024,1
+Balneário Gaivota,Jun,2017,1
+Balneário Gaivota,Jun,2021,1
+Balneário Gaivota,Jun,2024,1
+Balneário Gaivota,Jul,2011,1
+Balneário Gaivota,Ago,2005,1
+Balneário Gaivota,Set,2001,1
+Balneário Gaivota,Set,2009,1
+Balneário Gaivota,Out,2023,1
+Balneário Gaivota,Nov,2023,1
+Balneário Gaivota,Dez,2016,1
+Balneário Piçarras,Jan,2008,1
+Balneário Piçarras,Jan,2021,1
+Balneário Piçarras,Jan,2022,1
+Balneário Piçarras,Fev,2011,1
+Balneário Piçarras,Fev,2019,1
+Balneário Piçarras,Mar,2022,1
+Balneário Piçarras,Mar,2023,1
+Balneário Piçarras,Abr,2009,1
+Balneário Piçarras,Abr,2010,1
+Balneário Piçarras,Abr,2013,1
+Balneário Piçarras,Abr,2022,1
+Balneário Piçarras,Mai,2021,4
+Balneário Piçarras,Jun,2021,1
+Balneário Piçarras,Set,2009,1
+Balneário Piçarras,Out,2024,1
+Balneário Piçarras,Nov,2008,1
+Balneário Piçarras,Dez,2022,1
+Balneário Rincão,Mar,2015,1
+Balneário Rincão,Abr,2016,1
+Balneário Rincão,Mai,2019,1
+Balneário Rincão,Jun,2023,1
+Balneário Rincão,Jul,2014,1
+Balneário Rincão,Set,2015,1
+Barra Velha,Jan,2009,1
+Barra Velha,Jan,2011,1
+Barra Velha,Jan,2017,1
+Barra Velha,Jan,2018,1
+Barra Velha,Jan,2019,1
+Barra Velha,Jan,2020,2
+Barra Velha,Jan,2021,1
+Barra Velha,Jan,2023,1
+Barra Velha,Fev,2019,1
+Barra Velha,Fev,2020,1
+Barra Velha,Fev,2022,1
+Barra Velha,Mar,2018,2
+Barra Velha,Mar,2023,1
+Barra Velha,Abr,2010,1
+Barra Velha,Abr,2013,1
+Barra Velha,Jun,2021,1
+Barra Velha,Out,2023,1
+Barra Velha,Out,2024,1
+Barra Velha,Nov,2003,1
+Barra Velha,Nov,2008,1
+Barra Velha,Nov,2018,1
+Barra Velha,Nov,2022,1
+Barra Velha,Dez,2022,1
+Barra Velha,Dez,2024,1
+Biguaçu,Jan,1995,1
+Biguaçu,Jan,1997,1
+Biguaçu,Jan,2000,1
+Biguaçu,Jan,2004,1
+Biguaçu,Jan,2006,1
+Biguaçu,Jan,2008,1
+Biguaçu,Jan,2011,1
+Biguaçu,Jan,2018,1
+Biguaçu,Jan,2019,1
+Biguaçu,Jan,2022,1
+Biguaçu,Fev,1994,1
+Biguaçu,Fev,2022,1
+Biguaçu,Mar,2010,1
+Biguaçu,Mar,2021,1
+Biguaçu,Mai,2022,1
+Biguaçu,Ago,2022,1
+Biguaçu,Set,2011,2
+Biguaçu,Out,1991,1
+Biguaçu,Out,2022,1
+Biguaçu,Out,2023,1
+Biguaçu,Out,2024,1
+Biguaçu,Nov,2008,1
+Biguaçu,Nov,2021,1
+Biguaçu,Nov,2023,1
+Biguaçu,Nov,2024,1
+Biguaçu,Dez,1995,1
+Biguaçu,Dez,2016,1
+Biguaçu,Dez,2022,1
+Bombinhas,Jan,2011,1
+Bombinhas,Jan,2013,1
+Bombinhas,Jan,2018,1
+Bombinhas,Fev,2000,1
+Bombinhas,Mar,2016,1
+Bombinhas,Abr,2004,1
+Bombinhas,Abr,2009,1
+Bombinhas,Abr,2016,1
+Bombinhas,Out,2016,1
+Bombinhas,Dez,2020,1
+Florianópolis,Jan,1995,1
+Florianópolis,Jan,1997,1
+Florianópolis,Jan,2008,1
+Florianópolis,Jan,2011,1
+Florianópolis,Jan,2017,1
+Florianópolis,Jan,2018,1
+Florianópolis,Jan,2019,1
+Florianópolis,Jan,2020,1
+Florianópolis,Jan,2021,1
+Florianópolis,Fev,2000,1
+Florianópolis,Fev,2001,1
+Florianópolis,Fev,2011,1
+Florianópolis,Mar,2010,1
+Florianópolis,Mar,2011,1
+Florianópolis,Mar,2015,1
+Florianópolis,Mar,2020,1
+Florianópolis,Abr,2024,1
+Florianópolis,Mai,2010,1
+Florianópolis,Mai,2017,1
+Florianópolis,Mai,2022,1
+Florianópolis,Mai,2024,1
+Florianópolis,Jun,2021,1
+Florianópolis,Jul,2015,1
+Florianópolis,Ago,2022,1
+Florianópolis,Set,2011,2
+Florianópolis,Out,2023,2
+Florianópolis,Nov,1991,1
+Florianópolis,Nov,2008,1
+Florianópolis,Nov,2022,1
+Florianópolis,Nov,2023,1
+Florianópolis,Dez,1995,1
+Florianópolis,Dez,2011,1
+Florianópolis,Dez,2020,1
+Florianópolis,Dez,2022,1
+Garopaba,Jan,2021,1
+Garopaba,Abr,2024,1
+Garopaba,Mai,2010,1
+Garopaba,Jun,2017,1
+Garopaba,Jun,2021,1
+Garopaba,Ago,2022,1
+Garopaba,Set,2011,1
+Garopaba,Out,2021,1
+Garopaba,Out,2023,1
+Garopaba,Nov,2008,1
+Garopaba,Nov,2015,1
+Garopaba,Dez,2022,1
+Garuva,Jan,1996,1
+Garuva,Jan,1997,1
+Garuva,Jan,2003,1
+Garuva,Jan,2017,1
+Garuva,Jan,2018,2
+Garuva,Jan,2019,1
+Garuva,Jan,2021,1
+Garuva,Jan,2022,1
+Garuva,Fev,1995,1
+Garuva,Fev,1998,1
+Garuva,Fev,2001,1
+Garuva,Fev,2007,1
+Garuva,Fev,2016,1
+Garuva,Fev,2017,1
+Garuva,Fev,2020,1
+Garuva,Fev,2024,1
+Garuva,Mar,2021,1
+Garuva,Mai,2017,1
+Garuva,Jun,2014,1
+Garuva,Ago,2022,1
+Garuva,Set,2021,1
+Garuva,Nov,1991,1
+Garuva,Nov,2008,1
+Garuva,Nov,2021,1
+Garuva,Nov,2022,1
+Governador Celso Ramos,Jan,2001,1
+Governador Celso Ramos,Jan,2002,1
+Governador Celso Ramos,Jan,2004,1
+Governador Celso Ramos,Jan,2008,1
+Governador Celso Ramos,Jan,2016,1
+Governador Celso Ramos,Jan,2018,1
+Governador Celso Ramos,Fev,1995,1
+Governador Celso Ramos,Fev,2000,1
+Governador Celso Ramos,Fev,2015,1
+Governador Celso Ramos,Abr,2009,1
+Governador Celso Ramos,Mai,2010,1
+Governador Celso Ramos,Out,2023,1
+Governador Celso Ramos,Nov,2008,1
+Governador Celso Ramos,Nov,2023,1
+Governador Celso Ramos,Dez,2022,2
+Imaruí,Jan,2008,1
+Imaruí,Mar,1996,1
+Imaruí,Mai,2019,1
+Imaruí,Mai,2022,1
+Imaruí,Jun,2021,1
+Imaruí,Ago,2011,1
+Imaruí,Out,2022,1
+Imaruí,Out,2023,2
+Imaruí,Nov,2022,1
+Imaruí,Dez,1995,1
+Imaruí,Dez,1996,1
+Imaruí,Dez,2017,1
+Imbituba,Jan,2018,1
+Imbituba,Fev,2016,1
+Imbituba,Mar,1996,1
+Imbituba,Abr,2004,1
+Imbituba,Abr,2024,1
+Imbituba,Mai,2019,1
+Imbituba,Jun,2017,1
+Imbituba,Jul,2024,1
+Imbituba,Set,2001,1
+Imbituba,Out,2023,1
+Imbituba,Nov,2023,1
+Imbituba,Dez,1998,1
+Itajaí,Jan,1999,1
+Itajaí,Jan,2008,1
+Itajaí,Fev,1995,1
+Itajaí,Fev,2008,1
+Itajaí,Mar,2013,1
+Itajaí,Mar,2023,1
+Itajaí,Abr,2010,1
+Itajaí,Abr,2016,1
+Itajaí,Mai,2012,1
+Itajaí,Mai,2013,2
+Itajaí,Mai,2022,1
+Itajaí,Jun,2017,1
+Itajaí,Jun,2021,1
+Itajaí,Jul,2009,1
+Itajaí,Ago,2022,1
+Itajaí,Set,2011,2
+Itajaí,Out,2001,1
+Itajaí,Out,2013,1
+Itajaí,Out,2015,2
+Itajaí,Out,2016,1
+Itajaí,Out,2023,1
+Itajaí,Out,2024,1
+Itajaí,Nov,2003,1
+Itajaí,Nov,2008,1
+Itajaí,Nov,2022,1
+Itajaí,Nov,2023,1
+Itajaí,Dez,2022,1
+Itapema,Jan,2008,1
+Itapema,Jan,2018,1
+Itapema,Jan,2020,1
+Itapema,Fev,2019,1
+Itapema,Mar,2004,1
+Itapema,Mar,2016,1
+Itapema,Mar,2021,1
+Itapema,Mar,2023,1
+Itapema,Abr,2016,1
+Itapema,Mai,2010,1
+Itapema,Mai,2015,1
+Itapema,Set,2011,1
+Itapema,Nov,2008,1
+Itapema,Nov,2015,1
+Itapema,Dez,2022,1
+Itapoá,Jan,2003,1
+Itapoá,Jan,2008,1
+Itapoá,Jan,2010,1
+Itapoá,Jan,2011,1
+Itapoá,Jan,2021,1
+Itapoá,Jan,2024,2
+Itapoá,Fev,1998,1
+Itapoá,Fev,2020,1
+Itapoá,Fev,2022,1
+Itapoá,Mar,1994,1
+Itapoá,Mar,2018,1
+Itapoá,Mar,2019,1
+Itapoá,Mar,2021,1
+Itapoá,Mar,2023,1
+Itapoá,Jun,2023,1
+Itapoá,Ago,2022,1
+Itapoá,Set,2021,1
+Itapoá,Out,1991,1
+Itapoá,Out,2022,1
+Itapoá,Out,2023,1
+Itapoá,Nov,2008,1
+Itapoá,Nov,2017,1
+Itapoá,Nov,2022,1
+Itapoá,Dez,2021,1
+Itapoá,Dez,2022,1
+Jaguaruna,Jan,2009,1
+Jaguaruna,Jan,2011,1
+Jaguaruna,Jan,2017,1
+Jaguaruna,Mai,2004,1
+Jaguaruna,Mai,2010,1
+Jaguaruna,Mai,2019,1
+Jaguaruna,Mai,2022,1
+Jaguaruna,Jun,2017,1
+Jaguaruna,Jul,2021,1
+Jaguaruna,Jul,2024,1
+Jaguaruna,Ago,2011,1
+Jaguaruna,Ago,2022,1
+Jaguaruna,Out,2021,1
+Jaguaruna,Out,2023,2
+Jaguaruna,Nov,2022,1
+Joinville,Jan,1999,1
+Joinville,Jan,2002,1
+Joinville,Jan,2003,1
+Joinville,Jan,2010,1
+Joinville,Jan,2011,1
+Joinville,Jan,2016,1
+Joinville,Jan,2017,2
+Joinville,Jan,2018,1
+Joinville,Jan,2021,1
+Joinville,Jan,2023,2
+Joinville,Jan,2024,2
+Joinville,Fev,1995,1
+Joinville,Fev,2001,1
+Joinville,Fev,2007,1
+Joinville,Fev,2008,1
+Joinville,Fev,2020,1
+Joinville,Fev,2023,1
+Joinville,Fev,2024,1
+Joinville,Mar,1994,1
+Joinville,Mar,2010,1
+Joinville,Mar,2011,1
+Joinville,Mar,2015,1
+Joinville,Mar,2019,1
+Joinville,Mai,2017,1
+Joinville,Jul,1995,1
+Joinville,Jul,2024,1
+Joinville,Ago,1998,1
+Joinville,Ago,2022,1
+Joinville,Set,2011,1
+Joinville,Set,2013,1
+Joinville,Set,2017,1
+Joinville,Out,2023,1
+Joinville,Nov,2006,1
+Joinville,Nov,2008,1
+Joinville,Nov,2015,1
+Joinville,Nov,2016,1
+Joinville,Nov,2022,1
+Joinville,Dez,2020,1
+Joinville,Dez,2021,1
+Joinville,Dez,2022,1
+Joinville,Dez,2024,1
+Laguna,Jan,2009,1
+Laguna,Mar,1996,1
+Laguna,Abr,2001,1
+Laguna,Mai,2004,1
+Laguna,Mai,2019,1
+Laguna,Jun,2021,1
+Laguna,Ago,2011,1
+Laguna,Set,2004,1
+Laguna,Out,2023,1
+Laguna,Dez,2016,1
+Laguna,Dez,2022,2
+Navegantes,Jan,2008,1
+Navegantes,Jan,2018,1
+Navegantes,Jan,2019,1
+Navegantes,Fev,2019,1
+Navegantes,Fev,2020,1
+Navegantes,Mar,1992,1
+Navegantes,Mar,2002,1
+Navegantes,Abr,2009,1
+Navegantes,Abr,2010,1
+Navegantes,Jun,2020,1
+Navegantes,Set,2009,1
+Navegantes,Set,2011,1
+Navegantes,Out,2001,1
+Navegantes,Out,2023,1
+Navegantes,Nov,2003,1
+Navegantes,Nov,2008,1
+Navegantes,Dez,2022,1
+Palhoça,Jan,1997,1
+Palhoça,Jan,2008,1
+Palhoça,Jan,2011,1
+Palhoça,Jan,2021,1
+Palhoça,Fev,2001,1
+Palhoça,Fev,2005,1
+Palhoça,Mar,1996,1
+Palhoça,Mar,2010,1
+Palhoça,Abr,2024,1
+Palhoça,Jun,2021,1
+Palhoça,Set,2011,1
+Palhoça,Out,2001,1
+Palhoça,Out,2021,1
+Palhoça,Out,2023,1
+Palhoça,Nov,1991,1
+Palhoça,Nov,2008,1
+Palhoça,Nov,2023,1
+Palhoça,Dez,1995,1
+Palhoça,Dez,2020,1
+Palhoça,Dez,2022,1
+Passo de Torres,Fev,2014,1
+Passo de Torres,Mai,2004,1
+Passo de Torres,Mai,2022,1
+Passo de Torres,Mai,2024,1
+Passo de Torres,Set,1998,1
+Passo de Torres,Set,2009,1
+Passo de Torres,Out,2013,1
+Passo de Torres,Nov,1993,1
+Passo de Torres,Nov,2023,1
+Passo de Torres,Dez,1995,1
+Penha,Jan,2008,1
+Penha,Jan,2013,1
+Penha,Jan,2017,2
+Penha,Jan,2018,1
+Penha,Jan,2019,1
+Penha,Jan,2022,1
+Penha,Fev,2011,1
+Penha,Fev,2019,1
+Penha,Fev,2020,1
+Penha,Abr,2010,1
+Penha,Abr,2016,1
+Penha,Mai,2017,2
+Penha,Set,2011,2
+Penha,Nov,2008,1
+Penha,Nov,2018,2
+Penha,Dez,2022,1
+Pescaria Brava,Abr,2018,1
+Pescaria Brava,Mai,2015,1
+Pescaria Brava,Mai,2019,1
+Pescaria Brava,Jun,2021,1
+Pescaria Brava,Set,2013,1
+Pescaria Brava,Out,2023,1
+Porto Belo,Jan,2011,1
+Porto Belo,Jan,2018,1
+Porto Belo,Jan,2019,1
+Porto Belo,Jan,2020,1
+Porto Belo,Jan,2021,1
+Porto Belo,Fev,2000,1
+Porto Belo,Fev,2019,1
+Porto Belo,Fev,2021,1
+Porto Belo,Mar,2004,1
+Porto Belo,Mar,2016,1
+Porto Belo,Mar,2018,1
+Porto Belo,Mar,2021,1
+Porto Belo,Mar,2022,1
+Porto Belo,Mar,2023,1
+Porto Belo,Abr,2004,1
+Porto Belo,Abr,2017,1
+Porto Belo,Jun,2017,1
+Porto Belo,Ago,2022,1
+Porto Belo,Set,2020,1
+Porto Belo,Out,2024,1
+Porto Belo,Nov,2008,1
+Porto Belo,Nov,2018,1
+Porto Belo,Dez,2020,2
+Porto Belo,Dez,2022,2
+Santa Rosa do Sul,Jan,2011,1
+Santa Rosa do Sul,Jan,2017,1
+Santa Rosa do Sul,Jan,2023,1
+Santa Rosa do Sul,Fev,2001,1
+Santa Rosa do Sul,Fev,2014,1
+Santa Rosa do Sul,Fev,2021,1
+Santa Rosa do Sul,Mai,2004,1
+Santa Rosa do Sul,Mai,2022,1
+Santa Rosa do Sul,Mai,2024,1
+Santa Rosa do Sul,Jun,2021,1
+Santa Rosa do Sul,Jun,2022,1
+Santa Rosa do Sul,Jun,2024,1
+Santa Rosa do Sul,Ago,2011,2
+Santa Rosa do Sul,Set,2009,1
+Santa Rosa do Sul,Set,2013,1
+Santa Rosa do Sul,Out,2001,1
+Santa Rosa do Sul,Out,2023,1
+Santa Rosa do Sul,Nov,2023,1
+Santa Rosa do Sul,Dez,2002,1
+Santa Rosa do Sul,Dez,2015,1
+Santa Rosa do Sul,Dez,2021,1
+Sombrio,Fev,2003,1
+Sombrio,Fev,2014,1
+Sombrio,Mai,2004,1
+Sombrio,Mai,2022,1
+Sombrio,Mai,2024,1
+Sombrio,Jun,2023,1
+Sombrio,Jun,2024,1
+Sombrio,Jul,2023,1
+Sombrio,Set,2001,1
+Sombrio,Set,2009,1
+Sombrio,Set,2013,1
+Sombrio,Out,2023,2
+Sombrio,Nov,2023,1
+Sombrio,Dez,1995,1
+Sombrio,Dez,2021,1
+São Francisco do Sul,Jan,2009,1
+São Francisco do Sul,Jan,2018,1
+São Francisco do Sul,Jan,2021,1
+São Francisco do Sul,Jan,2022,2
+São Francisco do Sul,Jan,2024,1
+São Francisco do Sul,Fev,2010,1
+São Francisco do Sul,Fev,2020,1
+São Francisco do Sul,Fev,2021,1
+São Francisco do Sul,Mar,1994,1
+São Francisco do Sul,Mar,2001,1
+São Francisco do Sul,Mar,2016,1
+São Francisco do Sul,Mar,2021,1
+São Francisco do Sul,Mai,2018,1
+São Francisco do Sul,Mai,2022,1
+São Francisco do Sul,Set,2017,1
+São Francisco do Sul,Out,2023,1
+São Francisco do Sul,Nov,2008,1
+São Francisco do Sul,Dez,2024,1
+São José,Jan,2004,1
+São José,Jan,2008,1
+São José,Jan,2011,1
+São José,Jan,2016,1
+São José,Jan,2019,1
+São José,Fev,2001,1
+São José,Mar,2000,1
+São José,Mar,2010,1
+São José,Mai,2010,1
+São José,Set,2001,1
+São José,Set,2011,2
+São José,Out,1997,1
+São José,Nov,1991,1
+São José,Nov,2008,1
+São José,Nov,2022,1
+São José,Dez,2011,1
+São João do Sul,Jan,2011,1
+São João do Sul,Fev,2000,1
+São João do Sul,Mar,2007,1
+São João do Sul,Mar,2010,1
+São João do Sul,Mai,2004,1
+São João do Sul,Mai,2008,1
+São João do Sul,Mai,2021,1
+São João do Sul,Mai,2022,1
+São João do Sul,Mai,2024,1
+São João do Sul,Jun,2015,1
+São João do Sul,Jun,2021,1
+São João do Sul,Jun,2023,1
+São João do Sul,Jun,2024,1
+São João do Sul,Jul,1993,1
+São João do Sul,Jul,2020,1
+São João do Sul,Jul,2024,1
+São João do Sul,Set,2001,1
+São João do Sul,Set,2009,1
+São João do Sul,Set,2023,2
+São João do Sul,Out,2023,1
+São João do Sul,Nov,2023,1
+São João do Sul,Dez,2021,1
+Tijucas,Jan,2008,1
+Tijucas,Mar,2010,1
+Tijucas,Mar,2011,1
+Tijucas,Mar,2013,1
+Tijucas,Mar,2022,1
+Tijucas,Jun,2021,1
+Tijucas,Ago,2011,1
+Tijucas,Set,2011,1
+Tijucas,Out,2001,1
+Tijucas,Out,2022,1
+Tijucas,Out,2023,1
+Tijucas,Nov,2008,1
+Tijucas,Nov,2022,1
+Tijucas,Dez,2022,1

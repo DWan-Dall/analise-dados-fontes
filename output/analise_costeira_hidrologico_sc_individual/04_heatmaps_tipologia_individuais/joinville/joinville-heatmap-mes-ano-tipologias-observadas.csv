@@ -1,0 +1,43 @@
+nome_municipio,categoria_evento,mes_nome,ano,n_eventos
+Joinville,Alagamentos,Jan,2011,1
+Joinville,Alagamentos,Mar,2010,1
+Joinville,Alagamentos,Jul,2024,1
+Joinville,Alagamentos,Set,2017,1
+Joinville,Chuvas Intensas,Jan,2017,1
+Joinville,Chuvas Intensas,Jan,2018,1
+Joinville,Chuvas Intensas,Jan,2021,1
+Joinville,Chuvas Intensas,Jan,2023,2
+Joinville,Chuvas Intensas,Jan,2024,2
+Joinville,Chuvas Intensas,Fev,2020,1
+Joinville,Chuvas Intensas,Fev,2024,1
+Joinville,Chuvas Intensas,Mar,2015,1
+Joinville,Chuvas Intensas,Mar,2019,1
+Joinville,Chuvas Intensas,Mai,2017,1
+Joinville,Chuvas Intensas,Ago,2022,1
+Joinville,Chuvas Intensas,Out,2023,1
+Joinville,Chuvas Intensas,Nov,2022,1
+Joinville,Chuvas Intensas,Dez,2020,1
+Joinville,Chuvas Intensas,Dez,2022,1
+Joinville,Chuvas Intensas,Dez,2024,1
+Joinville,Enxurradas,Jan,2010,1
+Joinville,Enxurradas,Fev,1995,1
+Joinville,Enxurradas,Fev,2001,1
+Joinville,Enxurradas,Fev,2007,1
+Joinville,Enxurradas,Fev,2008,1
+Joinville,Enxurradas,Fev,2023,1
+Joinville,Enxurradas,Mar,1994,1
+Joinville,Enxurradas,Mar,2011,1
+Joinville,Enxurradas,Jul,1995,1
+Joinville,Enxurradas,Ago,1998,1
+Joinville,Enxurradas,Nov,2008,1
+Joinville,Enxurradas,Nov,2016,1
+Joinville,Enxurradas,Dez,2021,1
+Joinville,Inundações,Jan,1999,1
+Joinville,Inundações,Jan,2003,1
+Joinville,Inundações,Jan,2016,1
+Joinville,Inundações,Jan,2017,1
+Joinville,Inundações,Set,2011,1
+Joinville,Inundações,Set,2013,1
+Joinville,Inundações,Nov,2006,1
+Joinville,Inundações,Nov,2015,1
+Joinville,Movimento de Massa,Jan,2002,1

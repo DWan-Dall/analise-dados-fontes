@@ -1,0 +1,512 @@
+nome_municipio,ano,categoria_evento,n_eventos
+Araquari,1994,Enxurradas,1
+Araquari,1995,Enxurradas,1
+Araquari,2001,Enxurradas,1
+Araquari,2003,Enxurradas,1
+Araquari,2006,Alagamentos,1
+Araquari,2008,Enxurradas,1
+Araquari,2010,Enxurradas,2
+Araquari,2011,Enxurradas,2
+Araquari,2011,Inundações,1
+Araquari,2013,Alagamentos,2
+Araquari,2014,Alagamentos,1
+Araquari,2017,Alagamentos,2
+Araquari,2017,Chuvas Intensas,1
+Araquari,2017,Movimento de Massa,1
+Araquari,2019,Chuvas Intensas,1
+Araquari,2022,Chuvas Intensas,5
+Araquari,2023,Chuvas Intensas,3
+Araquari,2024,Chuvas Intensas,4
+Araranguá,1993,Enxurradas,1
+Araranguá,1994,Enxurradas,1
+Araranguá,1995,Enxurradas,1
+Araranguá,1996,Enxurradas,1
+Araranguá,2000,Enxurradas,1
+Araranguá,2001,Enxurradas,1
+Araranguá,2004,Inundações,1
+Araranguá,2005,Inundações,1
+Araranguá,2008,Enxurradas,1
+Araranguá,2009,Enxurradas,2
+Araranguá,2010,Enxurradas,2
+Araranguá,2011,Enxurradas,1
+Araranguá,2013,Enxurradas,1
+Araranguá,2014,Enxurradas,2
+Araranguá,2015,Enxurradas,2
+Araranguá,2021,Chuvas Intensas,2
+Araranguá,2022,Chuvas Intensas,3
+Araranguá,2022,Enxurradas,2
+Araranguá,2023,Chuvas Intensas,1
+Araranguá,2024,Chuvas Intensas,2
+Balneário Arroio do Silva,2001,Inundações,1
+Balneário Arroio do Silva,2009,Enxurradas,1
+Balneário Arroio do Silva,2010,Enxurradas,2
+Balneário Arroio do Silva,2011,Enxurradas,2
+Balneário Arroio do Silva,2022,Chuvas Intensas,1
+Balneário Barra do Sul,1994,Enxurradas,1
+Balneário Barra do Sul,2008,Enxurradas,1
+Balneário Barra do Sul,2009,Enxurradas,2
+Balneário Barra do Sul,2010,Enxurradas,1
+Balneário Barra do Sul,2011,Enxurradas,2
+Balneário Barra do Sul,2014,Alagamentos,1
+Balneário Barra do Sul,2015,Inundações,1
+Balneário Barra do Sul,2017,Enxurradas,1
+Balneário Barra do Sul,2019,Chuvas Intensas,1
+Balneário Barra do Sul,2020,Chuvas Intensas,1
+Balneário Barra do Sul,2021,Inundações,1
+Balneário Barra do Sul,2022,Chuvas Intensas,1
+Balneário Barra do Sul,2023,Chuvas Intensas,1
+Balneário Barra do Sul,2024,Alagamentos,1
+Balneário Barra do Sul,2024,Chuvas Intensas,3
+Balneário Camboriú,1991,Enxurradas,1
+Balneário Camboriú,1994,Enxurradas,1
+Balneário Camboriú,2004,Enxurradas,1
+Balneário Camboriú,2007,Enxurradas,1
+Balneário Camboriú,2008,Enxurradas,2
+Balneário Camboriú,2011,Inundações,1
+Balneário Camboriú,2015,Enxurradas,1
+Balneário Camboriú,2018,Chuvas Intensas,1
+Balneário Camboriú,2019,Movimento de Massa,1
+Balneário Camboriú,2020,Chuvas Intensas,3
+Balneário Camboriú,2020,Inundações,1
+Balneário Camboriú,2021,Chuvas Intensas,5
+Balneário Camboriú,2022,Chuvas Intensas,2
+Balneário Camboriú,2022,Inundações,1
+Balneário Camboriú,2023,Chuvas Intensas,7
+Balneário Camboriú,2024,Chuvas Intensas,3
+Balneário Gaivota,2001,Inundações,1
+Balneário Gaivota,2003,Inundações,1
+Balneário Gaivota,2004,Enxurradas,1
+Balneário Gaivota,2005,Inundações,1
+Balneário Gaivota,2009,Enxurradas,1
+Balneário Gaivota,2010,Enxurradas,1
+Balneário Gaivota,2011,Enxurradas,1
+Balneário Gaivota,2016,Enxurradas,1
+Balneário Gaivota,2017,Enxurradas,1
+Balneário Gaivota,2021,Enxurradas,1
+Balneário Gaivota,2023,Chuvas Intensas,2
+Balneário Gaivota,2024,Chuvas Intensas,2
+Balneário Piçarras,2008,Enxurradas,2
+Balneário Piçarras,2009,Enxurradas,2
+Balneário Piçarras,2010,Enxurradas,1
+Balneário Piçarras,2011,Alagamentos,1
+Balneário Piçarras,2013,Enxurradas,1
+Balneário Piçarras,2019,Chuvas Intensas,1
+Balneário Piçarras,2021,Alagamentos,3
+Balneário Piçarras,2021,Chuvas Intensas,2
+Balneário Piçarras,2021,Movimento de Massa,1
+Balneário Piçarras,2022,Alagamentos,3
+Balneário Piçarras,2022,Chuvas Intensas,1
+Balneário Piçarras,2023,Inundações,1
+Balneário Piçarras,2024,Alagamentos,1
+Balneário Rincão,2014,Alagamentos,1
+Balneário Rincão,2015,Alagamentos,2
+Balneário Rincão,2016,Alagamentos,1
+Balneário Rincão,2019,Enxurradas,1
+Balneário Rincão,2023,Alagamentos,1
+Barra Velha,2003,Inundações,1
+Barra Velha,2008,Enxurradas,1
+Barra Velha,2009,Enxurradas,1
+Barra Velha,2010,Enxurradas,1
+Barra Velha,2011,Enxurradas,1
+Barra Velha,2013,Chuvas Intensas,1
+Barra Velha,2017,Enxurradas,1
+Barra Velha,2018,Alagamentos,2
+Barra Velha,2018,Chuvas Intensas,1
+Barra Velha,2018,Enxurradas,1
+Barra Velha,2019,Alagamentos,1
+Barra Velha,2019,Chuvas Intensas,1
+Barra Velha,2020,Chuvas Intensas,2
+Barra Velha,2020,Enxurradas,1
+Barra Velha,2021,Alagamentos,2
+Barra Velha,2022,Alagamentos,1
+Barra Velha,2022,Chuvas Intensas,1
+Barra Velha,2022,Enxurradas,1
+Barra Velha,2023,Chuvas Intensas,1
+Barra Velha,2023,Enxurradas,1
+Barra Velha,2023,Movimento de Massa,1
+Barra Velha,2024,Alagamentos,1
+Barra Velha,2024,Inundações,1
+Biguaçu,1991,Enxurradas,1
+Biguaçu,1994,Enxurradas,1
+Biguaçu,1995,Enxurradas,2
+Biguaçu,1997,Enxurradas,1
+Biguaçu,2000,Inundações,1
+Biguaçu,2004,Enxurradas,1
+Biguaçu,2006,Enxurradas,1
+Biguaçu,2008,Enxurradas,2
+Biguaçu,2010,Enxurradas,1
+Biguaçu,2011,Enxurradas,2
+Biguaçu,2011,Inundações,1
+Biguaçu,2016,Enxurradas,1
+Biguaçu,2018,Alagamentos,1
+Biguaçu,2019,Chuvas Intensas,1
+Biguaçu,2021,Chuvas Intensas,1
+Biguaçu,2021,Inundações,1
+Biguaçu,2022,Chuvas Intensas,1
+Biguaçu,2022,Enxurradas,5
+Biguaçu,2023,Chuvas Intensas,2
+Biguaçu,2024,Chuvas Intensas,1
+Biguaçu,2024,Movimento de Massa,1
+Bombinhas,2000,Enxurradas,1
+Bombinhas,2004,Enxurradas,1
+Bombinhas,2009,Enxurradas,1
+Bombinhas,2011,Enxurradas,1
+Bombinhas,2013,Chuvas Intensas,1
+Bombinhas,2016,Alagamentos,2
+Bombinhas,2016,Enxurradas,1
+Bombinhas,2018,Enxurradas,1
+Bombinhas,2020,Chuvas Intensas,1
+Florianópolis,1991,Enxurradas,1
+Florianópolis,1995,Enxurradas,1
+Florianópolis,1995,Movimento de Massa,1
+Florianópolis,1997,Enxurradas,1
+Florianópolis,2000,Enxurradas,1
+Florianópolis,2001,Enxurradas,1
+Florianópolis,2008,Enxurradas,2
+Florianópolis,2010,Enxurradas,2
+Florianópolis,2011,Enxurradas,5
+Florianópolis,2011,Inundações,1
+Florianópolis,2015,Enxurradas,2
+Florianópolis,2017,Enxurradas,2
+Florianópolis,2018,Chuvas Intensas,1
+Florianópolis,2019,Chuvas Intensas,1
+Florianópolis,2020,Alagamentos,2
+Florianópolis,2020,Chuvas Intensas,1
+Florianópolis,2021,Chuvas Intensas,2
+Florianópolis,2022,Chuvas Intensas,4
+Florianópolis,2023,Chuvas Intensas,3
+Florianópolis,2024,Alagamentos,1
+Florianópolis,2024,Chuvas Intensas,1
+Garopaba,2008,Enxurradas,1
+Garopaba,2010,Enxurradas,1
+Garopaba,2011,Alagamentos,1
+Garopaba,2015,Inundações,1
+Garopaba,2017,Inundações,1
+Garopaba,2021,Alagamentos,1
+Garopaba,2021,Chuvas Intensas,1
+Garopaba,2021,Movimento de Massa,1
+Garopaba,2022,Chuvas Intensas,1
+Garopaba,2022,Movimento de Massa,1
+Garopaba,2023,Chuvas Intensas,1
+Garopaba,2024,Chuvas Intensas,1
+Garuva,1991,Enxurradas,1
+Garuva,1995,Enxurradas,1
+Garuva,1996,Enxurradas,1
+Garuva,1997,Enxurradas,1
+Garuva,1998,Enxurradas,1
+Garuva,2001,Inundações,1
+Garuva,2003,Enxurradas,1
+Garuva,2007,Enxurradas,1
+Garuva,2008,Enxurradas,1
+Garuva,2014,Enxurradas,1
+Garuva,2016,Chuvas Intensas,1
+Garuva,2017,Chuvas Intensas,1
+Garuva,2017,Enxurradas,2
+Garuva,2018,Chuvas Intensas,2
+Garuva,2019,Enxurradas,1
+Garuva,2020,Chuvas Intensas,1
+Garuva,2021,Chuvas Intensas,4
+Garuva,2022,Chuvas Intensas,2
+Garuva,2022,Enxurradas,1
+Garuva,2024,Chuvas Intensas,1
+Governador Celso Ramos,1995,Enxurradas,1
+Governador Celso Ramos,2000,Enxurradas,1
+Governador Celso Ramos,2001,Enxurradas,1
+Governador Celso Ramos,2002,Alagamentos,1
+Governador Celso Ramos,2004,Enxurradas,1
+Governador Celso Ramos,2008,Enxurradas,2
+Governador Celso Ramos,2009,Enxurradas,1
+Governador Celso Ramos,2010,Enxurradas,1
+Governador Celso Ramos,2015,Chuvas Intensas,1
+Governador Celso Ramos,2016,Chuvas Intensas,1
+Governador Celso Ramos,2018,Movimento de Massa,1
+Governador Celso Ramos,2022,Chuvas Intensas,2
+Governador Celso Ramos,2023,Chuvas Intensas,1
+Governador Celso Ramos,2023,Movimento de Massa,1
+Imaruí,1995,Enxurradas,1
+Imaruí,1996,Enxurradas,1
+Imaruí,1996,Inundações,1
+Imaruí,2008,Enxurradas,1
+Imaruí,2011,Enxurradas,1
+Imaruí,2017,Chuvas Intensas,1
+Imaruí,2019,Enxurradas,1
+Imaruí,2021,Chuvas Intensas,1
+Imaruí,2022,Chuvas Intensas,3
+Imaruí,2023,Chuvas Intensas,2
+Imbituba,1996,Enxurradas,1
+Imbituba,1998,Enxurradas,1
+Imbituba,2001,Enxurradas,1
+Imbituba,2004,Enxurradas,1
+Imbituba,2016,Enxurradas,1
+Imbituba,2017,Movimento de Massa,1
+Imbituba,2018,Alagamentos,1
+Imbituba,2019,Alagamentos,1
+Imbituba,2023,Chuvas Intensas,2
+Imbituba,2024,Chuvas Intensas,2
+Itajaí,1995,Enxurradas,1
+Itajaí,1999,Enxurradas,1
+Itajaí,2001,Inundações,1
+Itajaí,2003,Enxurradas,1
+Itajaí,2008,Enxurradas,3
+Itajaí,2009,Enxurradas,1
+Itajaí,2010,Enxurradas,1
+Itajaí,2011,Inundações,2
+Itajaí,2012,Enxurradas,1
+Itajaí,2013,Enxurradas,3
+Itajaí,2013,Inundações,1
+Itajaí,2015,Inundações,2
+Itajaí,2016,Enxurradas,1
+Itajaí,2016,Movimento de Massa,1
+Itajaí,2017,Inundações,1
+Itajaí,2021,Chuvas Intensas,1
+Itajaí,2022,Chuvas Intensas,4
+Itajaí,2023,Alagamentos,1
+Itajaí,2023,Chuvas Intensas,1
+Itajaí,2023,Inundações,1
+Itajaí,2024,Chuvas Intensas,1
+Itapema,2004,Enxurradas,1
+Itapema,2008,Enxurradas,2
+Itapema,2010,Enxurradas,1
+Itapema,2011,Inundações,1
+Itapema,2015,Inundações,1
+Itapema,2015,Movimento de Massa,1
+Itapema,2016,Alagamentos,2
+Itapema,2018,Chuvas Intensas,1
+Itapema,2019,Chuvas Intensas,1
+Itapema,2020,Chuvas Intensas,1
+Itapema,2021,Chuvas Intensas,1
+Itapema,2022,Chuvas Intensas,1
+Itapema,2023,Chuvas Intensas,1
+Itapoá,1991,Inundações,1
+Itapoá,1994,Enxurradas,1
+Itapoá,1998,Alagamentos,1
+Itapoá,2003,Enxurradas,1
+Itapoá,2008,Enxurradas,2
+Itapoá,2010,Enxurradas,1
+Itapoá,2011,Enxurradas,1
+Itapoá,2017,Chuvas Intensas,1
+Itapoá,2018,Chuvas Intensas,1
+Itapoá,2019,Chuvas Intensas,1
+Itapoá,2020,Chuvas Intensas,1
+Itapoá,2021,Chuvas Intensas,4
+Itapoá,2022,Alagamentos,1
+Itapoá,2022,Chuvas Intensas,4
+Itapoá,2023,Chuvas Intensas,3
+Itapoá,2024,Chuvas Intensas,2
+Jaguaruna,2004,Enxurradas,1
+Jaguaruna,2009,Enxurradas,1
+Jaguaruna,2010,Enxurradas,1
+Jaguaruna,2011,Enxurradas,2
+Jaguaruna,2017,Chuvas Intensas,1
+Jaguaruna,2017,Enxurradas,1
+Jaguaruna,2019,Enxurradas,1
+Jaguaruna,2021,Alagamentos,1
+Jaguaruna,2021,Movimento de Massa,1
+Jaguaruna,2022,Chuvas Intensas,1
+Jaguaruna,2022,Enxurradas,1
+Jaguaruna,2022,Inundações,1
+Jaguaruna,2023,Chuvas Intensas,2
+Jaguaruna,2024,Chuvas Intensas,1
+Joinville,1994,Enxurradas,1
+Joinville,1995,Enxurradas,2
+Joinville,1998,Enxurradas,1
+Joinville,1999,Inundações,1
+Joinville,2001,Enxurradas,1
+Joinville,2002,Movimento de Massa,1
+Joinville,2003,Inundações,1
+Joinville,2006,Inundações,1
+Joinville,2007,Enxurradas,1
+Joinville,2008,Enxurradas,2
+Joinville,2010,Alagamentos,1
+Joinville,2010,Enxurradas,1
+Joinville,2011,Alagamentos,1
+Joinville,2011,Enxurradas,1
+Joinville,2011,Inundações,1
+Joinville,2013,Inundações,1
+Joinville,2015,Chuvas Intensas,1
+Joinville,2015,Inundações,1
+Joinville,2016,Enxurradas,1
+Joinville,2016,Inundações,1
+Joinville,2017,Alagamentos,1
+Joinville,2017,Chuvas Intensas,2
+Joinville,2017,Inundações,1
+Joinville,2018,Chuvas Intensas,1
+Joinville,2019,Chuvas Intensas,1
+Joinville,2020,Chuvas Intensas,2
+Joinville,2021,Chuvas Intensas,1
+Joinville,2021,Enxurradas,1
+Joinville,2022,Chuvas Intensas,3
+Joinville,2023,Chuvas Intensas,3
+Joinville,2023,Enxurradas,1
+Joinville,2024,Alagamentos,1
+Joinville,2024,Chuvas Intensas,4
+Laguna,1996,Enxurradas,1
+Laguna,2001,Inundações,1
+Laguna,2004,Enxurradas,2
+Laguna,2009,Enxurradas,1
+Laguna,2011,Movimento de Massa,1
+Laguna,2016,Alagamentos,1
+Laguna,2019,Alagamentos,1
+Laguna,2021,Chuvas Intensas,1
+Laguna,2022,Chuvas Intensas,1
+Laguna,2022,Movimento de Massa,1
+Laguna,2023,Chuvas Intensas,1
+Navegantes,1992,Inundações,1
+Navegantes,2001,Inundações,1
+Navegantes,2002,Enxurradas,1
+Navegantes,2003,Enxurradas,1
+Navegantes,2008,Enxurradas,2
+Navegantes,2009,Enxurradas,2
+Navegantes,2010,Enxurradas,1
+Navegantes,2011,Enxurradas,1
+Navegantes,2018,Enxurradas,1
+Navegantes,2019,Alagamentos,1
+Navegantes,2019,Chuvas Intensas,1
+Navegantes,2020,Enxurradas,1
+Navegantes,2020,Movimento de Massa,1
+Navegantes,2022,Chuvas Intensas,1
+Navegantes,2023,Alagamentos,1
+Palhoça,1991,Inundações,1
+Palhoça,1995,Inundações,1
+Palhoça,1996,Enxurradas,1
+Palhoça,1997,Enxurradas,1
+Palhoça,2001,Enxurradas,2
+Palhoça,2005,Enxurradas,1
+Palhoça,2008,Enxurradas,2
+Palhoça,2010,Enxurradas,1
+Palhoça,2011,Enxurradas,2
+Palhoça,2020,Inundações,1
+Palhoça,2021,Chuvas Intensas,3
+Palhoça,2022,Chuvas Intensas,1
+Palhoça,2023,Chuvas Intensas,2
+Palhoça,2024,Chuvas Intensas,1
+Passo de Torres,1993,Enxurradas,1
+Passo de Torres,1995,Inundações,1
+Passo de Torres,1998,Enxurradas,1
+Passo de Torres,2004,Inundações,1
+Passo de Torres,2009,Enxurradas,1
+Passo de Torres,2013,Inundações,1
+Passo de Torres,2014,Alagamentos,1
+Passo de Torres,2022,Chuvas Intensas,1
+Passo de Torres,2023,Chuvas Intensas,1
+Passo de Torres,2024,Chuvas Intensas,1
+Penha,2008,Enxurradas,2
+Penha,2010,Enxurradas,1
+Penha,2011,Enxurradas,1
+Penha,2011,Inundações,2
+Penha,2013,Inundações,1
+Penha,2016,Enxurradas,1
+Penha,2017,Alagamentos,1
+Penha,2017,Chuvas Intensas,2
+Penha,2017,Movimento de Massa,1
+Penha,2018,Alagamentos,1
+Penha,2018,Chuvas Intensas,2
+Penha,2019,Chuvas Intensas,2
+Penha,2020,Chuvas Intensas,1
+Penha,2022,Alagamentos,1
+Penha,2022,Chuvas Intensas,1
+Pescaria Brava,2013,Enxurradas,1
+Pescaria Brava,2015,Enxurradas,1
+Pescaria Brava,2018,Alagamentos,1
+Pescaria Brava,2019,Enxurradas,1
+Pescaria Brava,2021,Chuvas Intensas,1
+Pescaria Brava,2023,Chuvas Intensas,1
+Porto Belo,2000,Enxurradas,1
+Porto Belo,2004,Enxurradas,2
+Porto Belo,2008,Enxurradas,1
+Porto Belo,2011,Enxurradas,1
+Porto Belo,2016,Enxurradas,1
+Porto Belo,2017,Chuvas Intensas,1
+Porto Belo,2017,Movimento de Massa,1
+Porto Belo,2018,Alagamentos,1
+Porto Belo,2018,Chuvas Intensas,2
+Porto Belo,2019,Alagamentos,1
+Porto Belo,2019,Chuvas Intensas,1
+Porto Belo,2020,Chuvas Intensas,3
+Porto Belo,2020,Movimento de Massa,1
+Porto Belo,2021,Alagamentos,1
+Porto Belo,2021,Chuvas Intensas,2
+Porto Belo,2022,Alagamentos,1
+Porto Belo,2022,Chuvas Intensas,3
+Porto Belo,2023,Chuvas Intensas,1
+Porto Belo,2024,Chuvas Intensas,1
+Santa Rosa do Sul,2001,Enxurradas,1
+Santa Rosa do Sul,2001,Inundações,1
+Santa Rosa do Sul,2002,Enxurradas,1
+Santa Rosa do Sul,2004,Inundações,1
+Santa Rosa do Sul,2009,Enxurradas,1
+Santa Rosa do Sul,2011,Enxurradas,3
+Santa Rosa do Sul,2013,Inundações,1
+Santa Rosa do Sul,2014,Enxurradas,1
+Santa Rosa do Sul,2015,Enxurradas,1
+Santa Rosa do Sul,2017,Enxurradas,1
+Santa Rosa do Sul,2021,Chuvas Intensas,1
+Santa Rosa do Sul,2021,Enxurradas,2
+Santa Rosa do Sul,2022,Chuvas Intensas,2
+Santa Rosa do Sul,2023,Alagamentos,1
+Santa Rosa do Sul,2023,Chuvas Intensas,2
+Santa Rosa do Sul,2024,Chuvas Intensas,2
+Sombrio,1995,Inundações,1
+Sombrio,2001,Inundações,1
+Sombrio,2003,Enxurradas,1
+Sombrio,2004,Inundações,1
+Sombrio,2009,Enxurradas,1
+Sombrio,2013,Inundações,1
+Sombrio,2014,Alagamentos,1
+Sombrio,2021,Chuvas Intensas,1
+Sombrio,2022,Chuvas Intensas,1
+Sombrio,2023,Chuvas Intensas,5
+Sombrio,2024,Chuvas Intensas,2
+São Francisco do Sul,1994,Enxurradas,1
+São Francisco do Sul,2001,Inundações,1
+São Francisco do Sul,2008,Enxurradas,1
+São Francisco do Sul,2009,Enxurradas,1
+São Francisco do Sul,2010,Enxurradas,1
+São Francisco do Sul,2016,Chuvas Intensas,1
+São Francisco do Sul,2017,Movimento de Massa,1
+São Francisco do Sul,2018,Alagamentos,1
+São Francisco do Sul,2018,Movimento de Massa,1
+São Francisco do Sul,2020,Chuvas Intensas,1
+São Francisco do Sul,2021,Chuvas Intensas,3
+São Francisco do Sul,2022,Alagamentos,2
+São Francisco do Sul,2022,Chuvas Intensas,1
+São Francisco do Sul,2023,Chuvas Intensas,1
+São Francisco do Sul,2024,Chuvas Intensas,2
+São José,1991,Enxurradas,1
+São José,1997,Enxurradas,1
+São José,2000,Enxurradas,1
+São José,2001,Enxurradas,2
+São José,2004,Enxurradas,1
+São José,2008,Enxurradas,2
+São José,2010,Enxurradas,2
+São José,2011,Enxurradas,2
+São José,2011,Inundações,2
+São José,2016,Chuvas Intensas,1
+São José,2019,Enxurradas,1
+São José,2022,Chuvas Intensas,1
+São João do Sul,1993,Enxurradas,1
+São João do Sul,2000,Enxurradas,1
+São João do Sul,2001,Enxurradas,1
+São João do Sul,2004,Inundações,1
+São João do Sul,2007,Enxurradas,1
+São João do Sul,2008,Enxurradas,1
+São João do Sul,2009,Enxurradas,1
+São João do Sul,2010,Enxurradas,1
+São João do Sul,2011,Enxurradas,1
+São João do Sul,2015,Enxurradas,1
+São João do Sul,2020,Enxurradas,1
+São João do Sul,2021,Alagamentos,1
+São João do Sul,2021,Chuvas Intensas,1
+São João do Sul,2021,Movimento de Massa,1
+São João do Sul,2022,Alagamentos,1
+São João do Sul,2023,Chuvas Intensas,5
+São João do Sul,2024,Chuvas Intensas,3
+Tijucas,2001,Inundações,1
+Tijucas,2008,Enxurradas,2
+Tijucas,2010,Enxurradas,1
+Tijucas,2011,Enxurradas,2
+Tijucas,2011,Inundações,1
+Tijucas,2013,Alagamentos,1
+Tijucas,2021,Chuvas Intensas,1
+Tijucas,2022,Chuvas Intensas,4
+Tijucas,2023,Chuvas Intensas,1

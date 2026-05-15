@@ -1,0 +1,19 @@
+nome_municipio,categoria_evento,mes_nome,ano,n_eventos
+Penha,Alagamentos,Jan,2017,1
+Penha,Alagamentos,Jan,2022,1
+Penha,Alagamentos,Nov,2018,1
+Penha,Chuvas Intensas,Jan,2018,1
+Penha,Chuvas Intensas,Jan,2019,1
+Penha,Chuvas Intensas,Fev,2019,1
+Penha,Chuvas Intensas,Fev,2020,1
+Penha,Chuvas Intensas,Mai,2017,2
+Penha,Chuvas Intensas,Nov,2018,1
+Penha,Chuvas Intensas,Dez,2022,1
+Penha,Enxurradas,Jan,2008,1
+Penha,Enxurradas,Fev,2011,1
+Penha,Enxurradas,Abr,2010,1
+Penha,Enxurradas,Abr,2016,1
+Penha,Enxurradas,Nov,2008,1
+Penha,Inundações,Jan,2013,1
+Penha,Inundações,Set,2011,2
+Penha,Movimento de Massa,Jan,2017,1
