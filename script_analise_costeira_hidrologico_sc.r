@@ -16,7 +16,7 @@ library(fs)
 # Caminhos
 # ---------------------------
 base_output <- "output/analise_costeira_hidrologico_sc"
-path_base <- "dados/Atlas_Digital/Dados_Originais/BD_Atlas_1991_2024_v1.0_2025.04.14_Consolidado.xlsx"
+path_base <- "dados/Atlas_Digital/Dados_Originais/BD_Atlas_1991_2024_v1.0_2025.04.14_Consolidado (2).xlsx"
 
 pasta <- function(x) dir_create(path(base_output, x), recurse = TRUE)
 walk(c(
@@ -85,8 +85,8 @@ if ("data_registro" %in% names(dados)) dados <- dados %>% mutate(data_registro =
 num_cols <- intersect(
   c(
     "dh_mortos", "dh_feridos", "dh_enfermos", "dh_desabrigados", "dh_desalojados",
-    "dh_desaparecidos", "dh_afetados_seca_estiagem", "dh_total_danos_humanos_diretos",
-    "dh_outros_afetados", "dm_total_danos_materiais", "pepl_total_publico", "pepr_total_privado"
+    "dh_desaparecidos", "dh_total_danos_humanos_diretos", "dh_outros_afetados", 
+    "dm_total_danos_materiais", "pepl_total_publico", "pepr_total_privado"
   ), names(dados)
 )
 
@@ -140,7 +140,7 @@ write_csv(serie_ano, file.path(base_output, "03_temporal", "01-eventos-por-ano.c
 
 p_ano <- ggplot(serie_ano, aes(x = factor(ano), y = n_eventos)) +
   geom_col(fill = "steelblue") +
-  geom_text(aes(label = n_eventos), vjust = -0.25, size = 3.5) +
+  geom_text(aes(label = n_eventos), vjust = -0.55, size = 3.5) +
   scale_y_continuous(labels = comma, expand = expansion(mult = c(0, .08))) +
   labs(x = "Ano", y = "Quantidade de eventos",
        title = "Eventos hidrológicos por ano nas cidades costeiras",
@@ -291,7 +291,9 @@ mes_ano_eventos <- dados_costeiros %>%
 write_csv(mes_ano_eventos, file.path(base_output, "03_temporal", "09-eventos-por-mes-e-ano.csv"))
 
 # heatmap para localizar rapidamente os anos com ocorrência em cada mês
-p_mes_ano <- ggplot(mes_ano_eventos, aes(x = ano, y = mes_nome, fill = n_eventos)) +
+anos_completos <- sort(unique(mes_ano_eventos$ano))
+
+p_mes_ano <- ggplot(mes_ano_eventos, aes(x = factor(ano, levels = anos_completos), y = mes_nome, fill = n_eventos)) +
   geom_tile(color = "white") +
   scale_fill_gradient(low = "#fff5eb", high = "#d94801") +
   labs(
@@ -302,7 +304,10 @@ p_mes_ano <- ggplot(mes_ano_eventos, aes(x = ano, y = mes_nome, fill = n_eventos
     subtitle = "Cada célula mostra quantos eventos ocorreram no mês em cada ano"
   ) +
   theme_cientometria(base_size = 14, legend = "right") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(
+    axis.text.x = element_text(angle = 90, hjust = 0.5, vjust = 0.5, size = 8),
+    axis.text.y = element_text(size = 11)
+  )
 
 save_plot(p_mes_ano, file.path(base_output, "03_temporal", "08-heatmap-mes-ano-eventos.png"), 18, 8)
 

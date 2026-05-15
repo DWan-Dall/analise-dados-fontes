@@ -22,7 +22,7 @@ dh_desaparecidos,numeric,0,0
 dh_afetados_seca_estiagem,numeric,0,0
 dh_total_danos_humanos_diretos,numeric,0,0
 dh_outros_afetados,numeric,0,0
-dm_descricao,logical,691,100
+dm_descricao,character,422,61.07
 dm_uni_habita_danificadas,numeric,0,0
 dm_uni_habita_destruidas,numeric,0,0
 dm_uni_habita_valor,numeric,0,0

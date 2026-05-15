@@ -12,7 +12,7 @@ library(scales)
 library(fs)
 
 base_output <- "output/analise_costeira_hidrologico_sc_regioes"
-path_base <- "dados/Atlas_Digital/Dados_Originais/BD_Atlas_1991_2024_v1.0_2025.04.14_Consolidado.xlsx"
+path_base <- "dados/Atlas_Digital/Dados_Originais/BD_Atlas_1991_2024_v1.0_2025.04.14_Consolidado (2).xlsx"
 
 pasta <- function(x) dir_create(path(base_output, x), recurse = TRUE)
 walk(c("08_regioes"), pasta)
